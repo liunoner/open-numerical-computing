@@ -1,0 +1,56 @@
+{
+  "id": "project-gmsh-onelab",
+  "slug": "gmsh-onelab",
+  "name": "Gmsh/ONELAB",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.onelab.info/gmsh/gmsh",
+  "taxonomyIds": [
+    "topic-01-06"
+  ],
+  "card": {
+    "summary": "在 Gmsh 网格与可视化能力基础上提供交互式参数管理和外部求解器联动，可用于统一调整模型参数、驱动计算并即时查看后处理数据。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "边界条件与初始条件构建"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Gmsh.md"
+  ],
+  "mapping": {
+    "files": [
+      "Gmsh.md"
+    ],
+    "status": "candidate",
+    "note": "ONELAB 与 Gmsh 关系需要后续补充独立资料。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-petiga",
+  "slug": "petiga",
+  "name": "PetIGA",
+  "aliases": [],
+  "sourceUrl": "https://github.com/dalcinl/PetIGA",
+  "taxonomyIds": [
+    "topic-03-09"
+  ],
+  "card": {
+    "summary": "基于 PETSc 构建等几何分析框架，使用 NURBS 离散统一几何与分析，并直接利用 PETSc 的并行求解能力，适合 IGA PDE 应用开发。",
+    "language": "C",
+    "platform": "Windows / Linux",
+    "method": "等几何分析（IGA）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PetIGA.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

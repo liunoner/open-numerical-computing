@@ -1,0 +1,56 @@
+{
+  "id": "project-freecad-fem",
+  "slug": "freecad-fem",
+  "name": "FreeCAD FEM",
+  "aliases": [],
+  "sourceUrl": "https://github.com/FreeCAD/FreeCAD",
+  "taxonomyIds": [
+    "topic-01-04"
+  ],
+  "card": {
+    "summary": "在 FreeCAD 中衔接几何建模、网格、载荷边界设置与外部求解器，形成可视化 CAE 前处理流程，适合基于 CalculiX 的常规结构分析。",
+    "language": "Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "CAE 前处理与模型装配"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FreeCAD.md"
+  ],
+  "mapping": {
+    "files": [
+      "FreeCAD.md"
+    ],
+    "status": "candidate",
+    "note": "FreeCAD 的 FEM 工作台条目，使用主项目资料作为迁移起点。"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "project-simvascular",
+  "slug": "simvascular",
+  "name": "SimVascular",
+  "aliases": [],
+  "sourceUrl": "https://github.com/SimVascular/SimVascular",
+  "taxonomyIds": [
+    "topic-01-04",
+    "topic-02-10"
+  ],
+  "card": {
+    "summary": "将医学影像分割、血管几何建模、网格生成和血流分析连成完整流程，重点服务患者特异性的心血管与肺循环数值模拟研究。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "CAE 前处理与模型装配"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SimVascular.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

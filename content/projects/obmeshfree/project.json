@@ -1,0 +1,53 @@
+{
+  "id": "project-obmeshfree",
+  "slug": "obmeshfree",
+  "name": "OBMeshfree",
+  "aliases": [],
+  "sourceUrl": "https://github.com/NonlocalModels/OBMeshfree",
+  "taxonomyIds": [
+    "topic-06-06"
+  ],
+  "card": {
+    "summary": "面向非局部积分型 PDE 的无网格数值工具，通过点云离散处理复杂域和非局部相互作用，适合近场动力学与非局部模型的原型验证。",
+    "language": "C++",
+    "platform": "跨平台",
+    "method": "非局部积分型 PDE"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OBMeshfree.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

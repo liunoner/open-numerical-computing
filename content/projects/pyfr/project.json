@@ -1,0 +1,53 @@
+{
+  "id": "project-pyfr",
+  "slug": "pyfr",
+  "name": "PyFR",
+  "aliases": [],
+  "sourceUrl": "https://github.com/PyFR/PyFR",
+  "taxonomyIds": [
+    "topic-03-06"
+  ],
+  "card": {
+    "summary": "采用高阶通量重构方法求解可压缩流动，可在 CUDA、OpenCL 等后端运行，适合高保真 CFD、湍流研究与异构硬件性能评估。",
+    "language": "Python",
+    "platform": "Windows",
+    "method": "不连续 Galerkin 法（DG）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PyFR.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "project-febio",
+  "slug": "febio",
+  "name": "FEBio",
+  "aliases": [],
+  "sourceUrl": "https://github.com/febiosoftware/FEBio",
+  "taxonomyIds": [
+    "topic-01-05",
+    "topic-03-01",
+    "topic-05-11"
+  ],
+  "card": {
+    "summary": "专为生物力学设计的非线性有限元求解器，内置软组织本构、接触和边界条件，可用于三维组织、关节、血流及相关多物理问题。",
+    "language": "C++",
+    "platform": "Windows / Linux / macOS",
+    "method": "材料与本构模型开发"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FEBio.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

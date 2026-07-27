@@ -1,0 +1,53 @@
+{
+  "id": "project-openems",
+  "slug": "openems",
+  "name": "openEMS",
+  "aliases": [],
+  "sourceUrl": "https://github.com/thliebig/openEMS",
+  "taxonomyIds": [
+    "topic-03-05"
+  ],
+  "card": {
+    "summary": "采用 EC-FDTD 时域算法求解电磁场，可由 MATLAB、Octave 或 Python 脚本驱动，适合天线、微波器件和射频结构的参数化电磁仿真。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux",
+    "method": "有限差分法（FDM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/openEMS.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

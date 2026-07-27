@@ -1,0 +1,542 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "category-01",
+      "legacyId": 1,
+      "legacyIndex": 0,
+      "title": "建模与前处理",
+      "topics": [
+        {
+          "id": "topic-01-01",
+          "legacyIndex": 0,
+          "title": "CAD 与实体几何建模"
+        },
+        {
+          "id": "topic-01-02",
+          "legacyIndex": 1,
+          "title": "参数化与脚本化几何建模"
+        },
+        {
+          "id": "topic-01-03",
+          "legacyIndex": 2,
+          "title": "几何内核与 CAD 二次开发"
+        },
+        {
+          "id": "topic-01-04",
+          "legacyIndex": 3,
+          "title": "CAE 前处理与模型装配"
+        },
+        {
+          "id": "topic-01-05",
+          "legacyIndex": 4,
+          "title": "材料与本构模型开发"
+        },
+        {
+          "id": "topic-01-06",
+          "legacyIndex": 5,
+          "title": "边界条件与初始条件构建"
+        },
+        {
+          "id": "topic-01-07",
+          "legacyIndex": 6,
+          "title": "几何与模型格式互操作"
+        }
+      ]
+    },
+    {
+      "id": "category-02",
+      "legacyId": 2,
+      "legacyIndex": 1,
+      "title": "网格生成与处理",
+      "topics": [
+        {
+          "id": "topic-02-01",
+          "legacyIndex": 0,
+          "title": "通用非结构网格生成"
+        },
+        {
+          "id": "topic-02-02",
+          "legacyIndex": 1,
+          "title": "结构化与块结构网格"
+        },
+        {
+          "id": "topic-02-03",
+          "legacyIndex": 2,
+          "title": "六面体与高质量体网格"
+        },
+        {
+          "id": "topic-02-04",
+          "legacyIndex": 3,
+          "title": "曲面网格与几何离散化"
+        },
+        {
+          "id": "topic-02-05",
+          "legacyIndex": 4,
+          "title": "边界层与流体专用网格"
+        },
+        {
+          "id": "topic-02-06",
+          "legacyIndex": 5,
+          "title": "网格质量检测、修复与优化"
+        },
+        {
+          "id": "topic-02-07",
+          "legacyIndex": 6,
+          "title": "网格自适应与重网格"
+        },
+        {
+          "id": "topic-02-08",
+          "legacyIndex": 7,
+          "title": "动网格与网格变形"
+        },
+        {
+          "id": "topic-02-09",
+          "legacyIndex": 8,
+          "title": "网格分区与负载划分"
+        },
+        {
+          "id": "topic-02-10",
+          "legacyIndex": 9,
+          "title": "网格格式转换与数据读写"
+        }
+      ]
+    },
+    {
+      "id": "category-03",
+      "legacyId": 3,
+      "legacyIndex": 2,
+      "title": "网格型离散",
+      "topics": [
+        {
+          "id": "topic-03-01",
+          "legacyIndex": 0,
+          "title": "连续 Galerkin 有限元法（FEM）"
+        },
+        {
+          "id": "topic-03-02",
+          "legacyIndex": 1,
+          "title": "混合有限元与兼容离散"
+        },
+        {
+          "id": "topic-03-03",
+          "legacyIndex": 2,
+          "title": "高阶与 hp 有限元法"
+        },
+        {
+          "id": "topic-03-04",
+          "legacyIndex": 3,
+          "title": "有限体积法（FVM）"
+        },
+        {
+          "id": "topic-03-05",
+          "legacyIndex": 4,
+          "title": "有限差分法（FDM）"
+        },
+        {
+          "id": "topic-03-06",
+          "legacyIndex": 5,
+          "title": "不连续 Galerkin 法（DG）"
+        },
+        {
+          "id": "topic-03-07",
+          "legacyIndex": 6,
+          "title": "边界元法（BEM）"
+        },
+        {
+          "id": "topic-03-08",
+          "legacyIndex": 7,
+          "title": "谱方法与谱元法"
+        },
+        {
+          "id": "topic-03-09",
+          "legacyIndex": 8,
+          "title": "等几何分析（IGA）"
+        },
+        {
+          "id": "topic-03-10",
+          "legacyIndex": 9,
+          "title": "有限单元与嵌入式网格方法"
+        }
+      ]
+    },
+    {
+      "id": "category-04",
+      "legacyId": 4,
+      "legacyIndex": 3,
+      "title": "无网格、粒子与格子",
+      "topics": [
+        {
+          "id": "topic-04-01",
+          "legacyIndex": 0,
+          "title": "无网格 Galerkin 方法"
+        },
+        {
+          "id": "topic-04-02",
+          "legacyIndex": 1,
+          "title": "径向基函数方法（RBF）"
+        },
+        {
+          "id": "topic-04-03",
+          "legacyIndex": 2,
+          "title": "光滑粒子流体动力学（SPH）"
+        },
+        {
+          "id": "topic-04-04",
+          "legacyIndex": 3,
+          "title": "离散元法（DEM）"
+        },
+        {
+          "id": "topic-04-05",
+          "legacyIndex": 4,
+          "title": "物质点法（MPM）"
+        },
+        {
+          "id": "topic-04-06",
+          "legacyIndex": 5,
+          "title": "粒子—网格法（PIC）"
+        },
+        {
+          "id": "topic-04-07",
+          "legacyIndex": 6,
+          "title": "分子动力学（MD）"
+        },
+        {
+          "id": "topic-04-08",
+          "legacyIndex": 7,
+          "title": "耗散粒子动力学与介观粒子法"
+        },
+        {
+          "id": "topic-04-09",
+          "legacyIndex": 8,
+          "title": "格子 Boltzmann 法（LBM）"
+        },
+        {
+          "id": "topic-04-10",
+          "legacyIndex": 9,
+          "title": "元胞自动机与离散格子模型"
+        }
+      ]
+    },
+    {
+      "id": "category-05",
+      "legacyId": 5,
+      "legacyIndex": 4,
+      "title": "相场、界面与断裂",
+      "topics": [
+        {
+          "id": "topic-05-01",
+          "legacyIndex": 0,
+          "title": "相场断裂"
+        },
+        {
+          "id": "topic-05-02",
+          "legacyIndex": 1,
+          "title": "相场微观组织演化"
+        },
+        {
+          "id": "topic-05-03",
+          "legacyIndex": 2,
+          "title": "相场流体与两相流"
+        },
+        {
+          "id": "topic-05-04",
+          "legacyIndex": 3,
+          "title": "水平集法（Level Set）"
+        },
+        {
+          "id": "topic-05-05",
+          "legacyIndex": 4,
+          "title": "体积分数法（VOF）"
+        },
+        {
+          "id": "topic-05-06",
+          "legacyIndex": 5,
+          "title": "前沿追踪与显式界面方法"
+        },
+        {
+          "id": "topic-05-07",
+          "legacyIndex": 6,
+          "title": "连续损伤力学"
+        },
+        {
+          "id": "topic-05-08",
+          "legacyIndex": 7,
+          "title": "内聚区模型（CZM）"
+        },
+        {
+          "id": "topic-05-09",
+          "legacyIndex": 8,
+          "title": "扩展有限元法（XFEM/GFEM）"
+        },
+        {
+          "id": "topic-05-10",
+          "legacyIndex": 9,
+          "title": "CutFEM 与浸入式方法"
+        },
+        {
+          "id": "topic-05-11",
+          "legacyIndex": 10,
+          "title": "接触与摩擦计算"
+        }
+      ]
+    },
+    {
+      "id": "category-06",
+      "legacyId": 6,
+      "legacyIndex": 5,
+      "title": "近场与非局部模型",
+      "topics": [
+        {
+          "id": "topic-06-01",
+          "legacyIndex": 0,
+          "title": "键基近场动力学"
+        },
+        {
+          "id": "topic-06-02",
+          "legacyIndex": 1,
+          "title": "状态基近场动力学"
+        },
+        {
+          "id": "topic-06-03",
+          "legacyIndex": 2,
+          "title": "对应型近场动力学"
+        },
+        {
+          "id": "topic-06-04",
+          "legacyIndex": 3,
+          "title": "近场断裂与损伤模型"
+        },
+        {
+          "id": "topic-06-05",
+          "legacyIndex": 4,
+          "title": "近场—有限元耦合"
+        },
+        {
+          "id": "topic-06-06",
+          "legacyIndex": 5,
+          "title": "非局部积分型 PDE"
+        },
+        {
+          "id": "topic-06-07",
+          "legacyIndex": 6,
+          "title": "分数阶 PDE 与分数阶本构"
+        },
+        {
+          "id": "topic-06-08",
+          "legacyIndex": 7,
+          "title": "非局部本构与梯度增强模型"
+        },
+        {
+          "id": "topic-06-09",
+          "legacyIndex": 8,
+          "title": "非局部接触与界面模型"
+        }
+      ]
+    },
+    {
+      "id": "category-07",
+      "legacyId": 7,
+      "legacyIndex": 6,
+      "title": "多尺度与多物理场",
+      "topics": [
+        {
+          "id": "topic-07-01",
+          "legacyIndex": 0,
+          "title": "均匀化与代表体元（RVE）"
+        },
+        {
+          "id": "topic-07-02",
+          "legacyIndex": 1,
+          "title": "FE² 与计算均匀化"
+        },
+        {
+          "id": "topic-07-03",
+          "legacyIndex": 2,
+          "title": "原子—连续体耦合"
+        },
+        {
+          "id": "topic-07-04",
+          "legacyIndex": 3,
+          "title": "微观结构—性能耦合"
+        },
+        {
+          "id": "topic-07-05",
+          "legacyIndex": 4,
+          "title": "多尺度流动与传输"
+        },
+        {
+          "id": "topic-07-06",
+          "legacyIndex": 5,
+          "title": "流固耦合（FSI）"
+        },
+        {
+          "id": "topic-07-07",
+          "legacyIndex": 6,
+          "title": "热—结构耦合"
+        },
+        {
+          "id": "topic-07-08",
+          "legacyIndex": 7,
+          "title": "电磁—热—结构耦合"
+        },
+        {
+          "id": "topic-07-09",
+          "legacyIndex": 8,
+          "title": "化学—热—力耦合"
+        },
+        {
+          "id": "topic-07-10",
+          "legacyIndex": 9,
+          "title": "声学与振动耦合"
+        },
+        {
+          "id": "topic-07-11",
+          "legacyIndex": 10,
+          "title": "协同仿真与求解器耦合"
+        }
+      ]
+    },
+    {
+      "id": "category-08",
+      "legacyId": 8,
+      "legacyIndex": 7,
+      "title": "求解器、高性能与计算策略",
+      "topics": [
+        {
+          "id": "topic-08-01",
+          "legacyIndex": 0,
+          "title": "稀疏直接求解器"
+        },
+        {
+          "id": "topic-08-02",
+          "legacyIndex": 1,
+          "title": "Krylov 迭代求解器"
+        },
+        {
+          "id": "topic-08-03",
+          "legacyIndex": 2,
+          "title": "非线性求解器"
+        },
+        {
+          "id": "topic-08-04",
+          "legacyIndex": 3,
+          "title": "特征值与模态分析求解器"
+        },
+        {
+          "id": "topic-08-05",
+          "legacyIndex": 4,
+          "title": "常微分与偏微分时间积分"
+        },
+        {
+          "id": "topic-08-06",
+          "legacyIndex": 5,
+          "title": "预条件技术"
+        },
+        {
+          "id": "topic-08-07",
+          "legacyIndex": 6,
+          "title": "多重网格方法"
+        },
+        {
+          "id": "topic-08-08",
+          "legacyIndex": 7,
+          "title": "域分解方法"
+        },
+        {
+          "id": "topic-08-09",
+          "legacyIndex": 8,
+          "title": "自适应网格与负载均衡"
+        },
+        {
+          "id": "topic-08-10",
+          "legacyIndex": 9,
+          "title": "MPI 与分布式内存并行"
+        },
+        {
+          "id": "topic-08-11",
+          "legacyIndex": 10,
+          "title": "GPU 与异构加速"
+        },
+        {
+          "id": "topic-08-12",
+          "legacyIndex": 11,
+          "title": "矩阵自由与算子融合"
+        },
+        {
+          "id": "topic-08-13",
+          "legacyIndex": 12,
+          "title": "并行 I/O 与大规模数据处理"
+        },
+        {
+          "id": "topic-08-14",
+          "legacyIndex": 13,
+          "title": "性能可移植与硬件抽象"
+        }
+      ]
+    },
+    {
+      "id": "category-09",
+      "legacyId": 9,
+      "legacyIndex": 8,
+      "title": "后处理、可视化与数据转换",
+      "topics": [
+        {
+          "id": "topic-09-01",
+          "legacyIndex": 0,
+          "title": "通用科学可视化"
+        },
+        {
+          "id": "topic-09-02",
+          "legacyIndex": 1,
+          "title": "有限元与结构结果后处理"
+        },
+        {
+          "id": "topic-09-03",
+          "legacyIndex": 2,
+          "title": "流场与传热结果后处理"
+        },
+        {
+          "id": "topic-09-04",
+          "legacyIndex": 3,
+          "title": "体渲染、切片与等值面"
+        },
+        {
+          "id": "topic-09-05",
+          "legacyIndex": 4,
+          "title": "粒子与离散体系可视化"
+        },
+        {
+          "id": "topic-09-06",
+          "legacyIndex": 5,
+          "title": "网格与几何查看"
+        },
+        {
+          "id": "topic-09-07",
+          "legacyIndex": 6,
+          "title": "科学绘图与曲线分析"
+        },
+        {
+          "id": "topic-09-08",
+          "legacyIndex": 7,
+          "title": "脚本化后处理与批量出图"
+        },
+        {
+          "id": "topic-09-09",
+          "legacyIndex": 8,
+          "title": "科学数据格式读写与转换"
+        },
+        {
+          "id": "topic-09-10",
+          "legacyIndex": 9,
+          "title": "Web 与远程可视化"
+        },
+        {
+          "id": "topic-09-11",
+          "legacyIndex": 10,
+          "title": "结果比较与数据分析"
+        }
+      ]
+    }
+  ]
+}

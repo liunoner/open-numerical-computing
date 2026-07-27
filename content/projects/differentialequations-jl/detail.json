@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-differentialequations-jl",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/DifferentialEquations.jl.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "SciML（https://sciml.ai/）",
+      "documentation": "DifferentialEquations.jl Docs（https://docs.sciml.ai/DiffEqDocs/stable/）",
+      "releases": "Julia General registry 页面（https://juliahub.com/ui/Packages/General/DifferentialEquations） 与 GitHub Releases（https://github.com/SciML/DifferentialEquations.jl/releases）。",
+      "license": "MIT，见 LICENSE.md（https://github.com/SciML/DifferentialEquations.jl/blob/master/LICENSE.md）。其拆分后的组件包应分别核对许可证。",
+      "installation": "在 Julia 中通过 `Pkg.add(\"DifferentialEquations\")` 安装；具体求解器自 v8 起拆为 OrdinaryDiffEq 等组件，依赖和版本迁移见 文档（https://docs.sciml.ai/DiffEqDocs/stable/）。",
+      "community": "GitHub Issues（https://github.com/SciML/DifferentialEquations.jl/issues）、SciML Zulip（https://sciml.zulipchat.com/）、Julia Discourse 的 SciML 分区。",
+      "ecosystem": "SciMLBase、OrdinaryDiffEq、StochasticDiffEq、ModelingToolkit、DiffEqGPU 与 Python/R 接口共同构成 SciML 生态；核心元包与组件包的维护状态须分开记录。",
+      "maintenance": "综合判断：成熟、活跃维护的生态入口包。需注意其本身已向元包定位转变，实际算法活跃度要同时核查组件库。",
+      "links": [
+        {
+          "label": "SciML/DifferentialEquations.jl",
+          "url": "https://github.com/SciML/DifferentialEquations.jl"
+        },
+        {
+          "label": "SciML",
+          "url": "https://sciml.ai/"
+        },
+        {
+          "label": "DifferentialEquations.jl Docs",
+          "url": "https://docs.sciml.ai/DiffEqDocs/stable/"
+        },
+        {
+          "label": "Julia General registry 页面",
+          "url": "https://juliahub.com/ui/Packages/General/DifferentialEquations"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/SciML/DifferentialEquations.jl/releases"
+        },
+        {
+          "label": "LICENSE.md",
+          "url": "https://github.com/SciML/DifferentialEquations.jl/blob/master/LICENSE.md"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/SciML/DifferentialEquations.jl/issues"
+        },
+        {
+          "label": "SciML Zulip",
+          "url": "https://sciml.zulipchat.com/"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

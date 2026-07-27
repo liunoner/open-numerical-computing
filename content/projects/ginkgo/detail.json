@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-ginkgo",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Ginkgo.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Ginkgo 项目主页（https://ginkgo-project.github.io/）。",
+      "documentation": "主文档（https://ginkgo-project.github.io/ginkgo-generated-documentation/doc/main/index.html）。",
+      "releases": "GitHub Releases（https://github.com/ginkgo-project/ginkgo/releases）。",
+      "license": "BSD-3-Clause；以仓库 LICENSE（https://github.com/ginkgo-project/ginkgo/blob/develop/LICENSE）为准。",
+      "installation": "构建与安装指南（https://ginkgo-project.github.io/documentation-playground/user-guide/build-install.html）要求 CMake 与 C++17；可按执行器启用 OpenMP、CUDA、HIP、SYCL 与 MPI。",
+      "community": "GitHub Issues（https://github.com/ginkgo-project/ginkgo/issues）与Discussions（https://github.com/ginkgo-project/ginkgo/discussions）为公开协作入口。",
+      "ecosystem": "项目提供不同硬件执行器和稀疏线性代数模块；预条件器、求解器及与 MPI/GPU 后端的集成以官方文档为准。",
+      "maintenance": "成熟、活跃维护。官方文档持续生成、仓库存在近期发行；判断依据为发行页与文档，不以 star 数判断。",
+      "links": [
+        {
+          "label": "ginkgo-project/ginkgo",
+          "url": "https://github.com/ginkgo-project/ginkgo"
+        },
+        {
+          "label": "Ginkgo 项目主页",
+          "url": "https://ginkgo-project.github.io/"
+        },
+        {
+          "label": "主文档",
+          "url": "https://ginkgo-project.github.io/ginkgo-generated-documentation/doc/main/index.html"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/ginkgo-project/ginkgo/releases"
+        },
+        {
+          "label": "仓库 LICENSE",
+          "url": "https://github.com/ginkgo-project/ginkgo/blob/develop/LICENSE"
+        },
+        {
+          "label": "构建与安装指南",
+          "url": "https://ginkgo-project.github.io/documentation-playground/user-guide/build-install.html"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/ginkgo-project/ginkgo/issues"
+        },
+        {
+          "label": "Discussions",
+          "url": "https://github.com/ginkgo-project/ginkgo/discussions"
+        },
+        {
+          "label": "仓库贡献者",
+          "url": "https://github.com/ginkgo-project/ginkgo/graphs/contributors"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

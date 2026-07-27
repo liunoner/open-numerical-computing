@@ -1,0 +1,56 @@
+{
+  "id": "project-deal-ii",
+  "slug": "deal-ii",
+  "name": "deal.II",
+  "aliases": [],
+  "sourceUrl": "https://github.com/dealii/dealii",
+  "taxonomyIds": [
+    "topic-03-01",
+    "topic-03-03",
+    "topic-03-06",
+    "topic-08-12"
+  ],
+  "card": {
+    "summary": "提供维度无关的 C++ 有限元基础设施，重点支持自适应网格、hp-FEM、分布式并行和 Matrix-Free 算法，适合开发高性能 PDE 求解器。",
+    "language": "C++",
+    "platform": "Windows / Linux",
+    "method": "连续 Galerkin 有限元法（FEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/deal.II.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

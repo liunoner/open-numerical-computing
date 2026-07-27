@@ -1,0 +1,53 @@
+{
+  "id": "project-scidavis",
+  "slug": "scidavis",
+  "name": "SciDAVis",
+  "aliases": [],
+  "sourceUrl": "https://github.com/highperformancecoder/scidavis",
+  "taxonomyIds": [
+    "topic-09-07"
+  ],
+  "card": {
+    "summary": "集表格数据处理、曲线拟合、统计分析和二维/三维绘图于一体，可导入常见实验数据并输出适合论文与报告的高质量科学图表。",
+    "language": "Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "科学绘图与曲线分析"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SciDAVis.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

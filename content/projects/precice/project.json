@@ -1,0 +1,54 @@
+{
+  "id": "project-precice",
+  "slug": "precice",
+  "name": "preCICE",
+  "aliases": [],
+  "sourceUrl": "https://github.com/precice/precice",
+  "taxonomyIds": [
+    "topic-07-06",
+    "topic-07-11"
+  ],
+  "card": {
+    "summary": "为分区多物理仿真提供稳健的数据映射、时间耦合和迭代加速机制，可连接独立求解器，是流固耦合与多尺度协同计算的常用中间件。",
+    "language": "C++ / Python",
+    "platform": "Windows",
+    "method": "流固耦合（FSI）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/preCICE.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

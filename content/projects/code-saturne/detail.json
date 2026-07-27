@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-code-saturne",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Code_Saturne.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "code_saturne（https://www.code-saturne.org/）",
+      "documentation": "Documentation（https://www.code-saturne.org/cms/web/Documentation）",
+      "releases": "Download（https://www.code-saturne.org/cms/web/Download） 与 releases archive（https://code-saturne.org/releases）；官网同时链接 GitHub 源码。",
+      "license": "GNU GPL v2 或更高版本，见 COPYING（https://github.com/code-saturne/code_saturne/blob/master/COPYING） 和官方 Doxygen 说明。",
+      "installation": "源码使用配置脚本与 `make` 构建；编译器、MPI、Python、网格/I/O 等实际依赖由 INSTALL.md（https://github.com/code-saturne/code_saturne/blob/master/INSTALL.md） 按启用功能确定。",
+      "community": "用户论坛（https://www.code-saturne.org/forum/）、GitHub Issues（https://github.com/code-saturne/code_saturne/issues） 和官方 bug tracker。",
+      "ecosystem": "官方提供 教程库（https://github.com/code-saturne/saturne-tutorials），并与 SALOME-CFD、SYRTHES、code_aster、PLE 等生态有关；接口版本须按官方发布说明核验。",
+      "maintenance": "综合判断：成熟、活跃维护。官网发布长期支持和特性版本，论坛有近期讨论；判断以官方发行与维护公告为依据。",
+      "links": [
+        {
+          "label": "code-saturne/code_saturne",
+          "url": "https://github.com/code-saturne/code_saturne"
+        },
+        {
+          "label": "code_saturne",
+          "url": "https://www.code-saturne.org/"
+        },
+        {
+          "label": "Documentation",
+          "url": "https://www.code-saturne.org/cms/web/Documentation"
+        },
+        {
+          "label": "Download",
+          "url": "https://www.code-saturne.org/cms/web/Download"
+        },
+        {
+          "label": "releases archive",
+          "url": "https://code-saturne.org/releases"
+        },
+        {
+          "label": "COPYING",
+          "url": "https://github.com/code-saturne/code_saturne/blob/master/COPYING"
+        },
+        {
+          "label": "INSTALL.md",
+          "url": "https://github.com/code-saturne/code_saturne/blob/master/INSTALL.md"
+        },
+        {
+          "label": "用户论坛",
+          "url": "https://www.code-saturne.org/forum/"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/code-saturne/code_saturne/issues"
+        },
+        {
+          "label": "教程库",
+          "url": "https://github.com/code-saturne/saturne-tutorials"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

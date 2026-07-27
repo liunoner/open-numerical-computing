@@ -1,0 +1,53 @@
+{
+  "id": "project-pysph",
+  "slug": "pysph",
+  "name": "PySPH",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pysph/pysph",
+  "taxonomyIds": [
+    "topic-04-03"
+  ],
+  "card": {
+    "summary": "提供纯 Python 驱动的 SPH 建模与求解环境，支持多种粒子方程、并行加速和代码生成，适合流体、固体和多相粒子方法的快速原型。",
+    "language": "Python",
+    "platform": "跨平台",
+    "method": "光滑粒子流体动力学（SPH）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PySPH.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

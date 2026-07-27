@@ -1,0 +1,54 @@
+{
+  "id": "project-libceed",
+  "slug": "libceed",
+  "name": "libCEED",
+  "aliases": [],
+  "sourceUrl": "https://github.com/CEED/libCEED",
+  "taxonomyIds": [
+    "topic-08-11",
+    "topic-08-12"
+  ],
+  "card": {
+    "summary": "提供高阶单元离散的 Matrix-Free 核心算子与可移植后端，使应用共享优化计算核，适合在 GPU 和多核平台加速有限元、谱元等方法。",
+    "language": "C++ / Python",
+    "platform": "Linux / Web",
+    "method": "GPU 与异构加速"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/libCEED.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

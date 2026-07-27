@@ -1,0 +1,53 @@
+{
+  "id": "project-feascript",
+  "slug": "feascript",
+  "name": "FEAScript",
+  "aliases": [],
+  "sourceUrl": "https://github.com/FEAScript/FEAScript-core",
+  "taxonomyIds": [
+    "topic-03-01"
+  ],
+  "card": {
+    "summary": "把有限元建模和求解封装为 JavaScript API，可直接在浏览器或 Node.js 环境运行，适合轻量交互式工程计算、教学演示和 Web 仿真工具开发。",
+    "language": "JavaScript / C",
+    "platform": "Windows",
+    "method": "连续 Galerkin 有限元法（FEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FEAScript.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

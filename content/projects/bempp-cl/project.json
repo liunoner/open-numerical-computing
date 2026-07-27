@@ -1,0 +1,53 @@
+{
+  "id": "project-bempp-cl",
+  "slug": "bempp-cl",
+  "name": "Bempp-cl",
+  "aliases": [],
+  "sourceUrl": "https://github.com/bempp/bempp-legacy-cl",
+  "taxonomyIds": [
+    "topic-03-07"
+  ],
+  "card": {
+    "summary": "以 PyOpenCL 即时编译计算核，组装 Laplace、Helmholtz 和 Maxwell 积分算子；适合在 Python 中快速构建 GPU 加速的边界元模型。",
+    "language": "C++ / Python",
+    "platform": "跨平台",
+    "method": "边界元法（BEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Bempp-cl.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

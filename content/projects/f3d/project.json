@@ -1,0 +1,54 @@
+{
+  "id": "project-f3d",
+  "slug": "f3d",
+  "name": "F3D",
+  "aliases": [],
+  "sourceUrl": "https://github.com/f3d-app/f3d",
+  "taxonomyIds": [
+    "topic-09-06",
+    "topic-09-10"
+  ],
+  "card": {
+    "summary": "基于 VTK 的轻量三维桌面查看器，支持常见科学与几何数据格式、命令行渲染和缩略图生成，适合快速检查网格、体数据和仿真结果。",
+    "language": "C++ / Python",
+    "platform": "Windows / Web",
+    "method": "网格与几何查看"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/F3D.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

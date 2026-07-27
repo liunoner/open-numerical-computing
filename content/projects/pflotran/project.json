@@ -1,0 +1,56 @@
+{
+  "id": "project-pflotran",
+  "slug": "pflotran",
+  "name": "PFLOTRAN",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pflotran/pflotran",
+  "taxonomyIds": [
+    "topic-03-04",
+    "topic-07-05",
+    "topic-07-09",
+    "topic-08-10"
+  ],
+  "card": {
+    "summary": "面向地下多相流和反应传输的并行模拟器，擅长大尺度多孔介质中水、热和溶质耦合过程，服务地下水、地热及碳封存分析。",
+    "language": "Fortran",
+    "platform": "Windows",
+    "method": "有限体积法（FVM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PFLOTRAN.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

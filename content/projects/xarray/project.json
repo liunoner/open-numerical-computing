@@ -1,0 +1,53 @@
+{
+  "id": "project-xarray",
+  "slug": "xarray",
+  "name": "xarray",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pydata/xarray",
+  "taxonomyIds": [
+    "topic-09-11"
+  ],
+  "card": {
+    "summary": "为 NumPy 风格多维数组加入维度、坐标和属性标签的数据模型，可按名称对齐、索引和运算，特别适合 NetCDF 等地学与时空科学数据处理。",
+    "language": "Python / C",
+    "platform": "Windows",
+    "method": "结果比较与数据分析"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/xarray.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-mpich",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MPICH.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "mpich.org（https://www.mpich.org/）。",
+      "documentation": "MPICH Guides（https://www.mpich.org/documentation/guides/）。",
+      "releases": "Downloads（https://www.mpich.org/downloads/）与GitHub Releases（https://github.com/pmodels/mpich/releases）。",
+      "license": "MPICH License（宽松开源许可）；以LICENSE（https://github.com/pmodels/mpich/blob/main/LICENSE）为准。",
+      "installation": "官方 Installer's Guide/README；Autotools/CMake，Unix 和 Windows 路径均有说明。",
+      "community": "GitHub Issues（https://github.com/pmodels/mpich/issues）、GitHub Discussions（https://github.com/pmodels/mpich/discussions）及官网 Support。",
+      "ecosystem": "MPI-1 至 MPI-4、Hydra、ROMIO、OFI/UCX/netmod 与派生 MPI 实现生态。",
+      "maintenance": "基础设施级、活跃维护；官网当前为 MPICH 5.x 文档/发布线。",
+      "links": [
+        {
+          "label": "pmodels/mpich",
+          "url": "https://github.com/pmodels/mpich"
+        },
+        {
+          "label": "mpich.org",
+          "url": "https://www.mpich.org/"
+        },
+        {
+          "label": "MPICH Guides",
+          "url": "https://www.mpich.org/documentation/guides/"
+        },
+        {
+          "label": "Downloads",
+          "url": "https://www.mpich.org/downloads/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/pmodels/mpich/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/pmodels/mpich/blob/main/LICENSE"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/pmodels/mpich/issues"
+        },
+        {
+          "label": "GitHub Discussions",
+          "url": "https://github.com/pmodels/mpich/discussions"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

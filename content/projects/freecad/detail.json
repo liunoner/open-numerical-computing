@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-freecad",
+  "updatedAt": "2026-07-25",
+  "details": {
+    "identity": { "status": "pending" },
+    "overview": { "status": "pending" },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "FreeCAD 的源码、下载、开发文档、论坛与治理线索已建立来源记录。",
+      "website": "https://www.freecad.org/",
+      "documentation": "https://wiki.freecad.org/",
+      "releases": "https://github.com/FreeCAD/FreeCAD/releases",
+      "license": "LGPL-2.0-or-later。",
+      "installation": "官方提供 Windows、macOS、Linux 预编译包；源码构建依赖 CMake、OpenCASCADE、Qt、Coin3D、Python 等。",
+      "community": "FreeCAD Forum 与 GitHub Issues 是已记录的官方协作入口。",
+      "ecosystem": "Addon Manager、Workbench、FEM/BIM/CAM 等工作台及 FreeCAD Library。",
+      "maintenance": "综合判断：成熟、活跃维护；多平台正式发行、文档、论坛和开发治理体系齐备。",
+      "links": [
+        { "label": "官方仓库", "url": "https://github.com/FreeCAD/FreeCAD" },
+        { "label": "官网", "url": "https://www.freecad.org/" },
+        { "label": "官方文档", "url": "https://wiki.freecad.org/" },
+        { "label": "开发者手册", "url": "https://freecad.github.io/DevelopersHandbook/" },
+        { "label": "社区论坛", "url": "https://forum.freecad.org/" }
+      ]
+    },
+    "scope": { "status": "pending" },
+    "theory": { "status": "pending" },
+    "extensions": { "status": "pending" },
+    "references": { "status": "pending" },
+    "media": { "status": "pending" }
+  }
+}

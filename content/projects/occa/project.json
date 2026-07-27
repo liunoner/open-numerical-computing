@@ -1,0 +1,53 @@
+{
+  "id": "project-occa",
+  "slug": "occa",
+  "name": "OCCA",
+  "aliases": [],
+  "sourceUrl": "https://github.com/libocca/occa",
+  "taxonomyIds": [
+    "topic-08-14"
+  ],
+  "card": {
+    "summary": "以统一 kernel 语言和内存接口屏蔽 CUDA、OpenCL、HIP 等后端差异，使数值计算核可跨硬件编译和运行，服务异构加速与性能可移植开发。",
+    "language": "C++ / Fortran",
+    "platform": "Windows / Linux / macOS",
+    "method": "性能可移植与硬件抽象"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OCCA.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-fdesolver-jl",
+  "slug": "fdesolver-jl",
+  "name": "FdeSolver.jl",
+  "aliases": [],
+  "sourceUrl": "https://github.com/SciFracX/FdeSolver.jl",
+  "taxonomyIds": [
+    "topic-06-07"
+  ],
+  "card": {
+    "summary": "面向分数阶 PDE 与分数阶本构关系提供 Julia 求解能力，可用于含记忆效应和非局部时间行为的模型原型、算法比较与数值实验。",
+    "language": "Julia",
+    "platform": "跨平台",
+    "method": "分数阶 PDE 与分数阶本构"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FdeSolver.jl.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

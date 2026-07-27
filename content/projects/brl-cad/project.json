@@ -1,0 +1,53 @@
+{
+  "id": "project-brl-cad",
+  "slug": "brl-cad",
+  "name": "BRL-CAD",
+  "aliases": [],
+  "sourceUrl": "https://github.com/BRL-CAD/brlcad",
+  "taxonomyIds": [
+    "topic-01-01"
+  ],
+  "card": {
+    "summary": "以 Constructive Solid Geometry（CSG）布尔运算构造实体模型，并集成交互编辑、光线追踪和几何分析，适合复杂工程对象的建模与评估。",
+    "language": "C / C++",
+    "platform": "Windows / Linux / macOS",
+    "method": "CAD 与实体几何建模"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/BRL-CAD.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

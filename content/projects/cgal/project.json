@@ -1,0 +1,54 @@
+{
+  "id": "project-cgal",
+  "slug": "cgal",
+  "name": "CGAL",
+  "aliases": [],
+  "sourceUrl": "https://github.com/CGAL/cgal",
+  "taxonomyIds": [
+    "topic-01-03",
+    "topic-02-04"
+  ],
+  "card": {
+    "summary": "提供鲁棒的计算几何数据结构与算法，涵盖三角剖分、Voronoi 图、凸包、布尔运算和网格处理，是 CAD 与几何处理开发的基础组件。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "几何内核与 CAD 二次开发"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/CGAL.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

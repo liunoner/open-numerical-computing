@@ -1,0 +1,53 @@
+{
+  "id": "project-approxfun-jl",
+  "slug": "approxfun-jl",
+  "name": "ApproxFun.jl",
+  "aliases": [],
+  "sourceUrl": "https://github.com/JuliaApproximation/ApproxFun.jl",
+  "taxonomyIds": [
+    "topic-04-02"
+  ],
+  "card": {
+    "summary": "在 Julia 中以函数空间和自适应系数表示连续函数，支持 Chebyshev、Fourier 等基展开，适合高精度插值、微分、积分与谱方法原型开发。",
+    "language": "Julia / MATLAB",
+    "platform": "Windows",
+    "method": "径向基函数方法（RBF）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/ApproxFun.jl.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

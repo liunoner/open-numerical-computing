@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-meshlab",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MeshLab.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "meshlab.net（https://www.meshlab.net/）。",
+      "documentation": "官网文档/教程与仓库 `docs` Doxygen 脚本；完整用户文档入口以官网为准。",
+      "releases": "官网 Download（https://www.meshlab.net/#download）与GitHub Releases（https://github.com/cnr-isti-vclab/meshlab/releases）。",
+      "license": "GPL-3.0；以官网 Licensing（https://www.meshlab.net/）和仓库 LICENSE 为准。",
+      "installation": "官方二进制覆盖常用桌面平台；源码构建依赖 Qt、VCGlib 等，具体组合按仓库 build 文档。",
+      "community": "GitHub Issues（https://github.com/cnr-isti-vclab/meshlab/issues）用于 bug；官网明确不建议将使用问题提交为 GitHub issue。",
+      "ecosystem": "VCGlib、MeshLab plugins、PyMeshLab、格式导入导出和几何处理管线。",
+      "maintenance": "成熟、活跃维护。官网、仓库、夜间构建和发布入口均仍可用。",
+      "links": [
+        {
+          "label": "cnr-isti-vclab/meshlab",
+          "url": "https://github.com/cnr-isti-vclab/meshlab"
+        },
+        {
+          "label": "meshlab.net",
+          "url": "https://www.meshlab.net/"
+        },
+        {
+          "label": "官网 Download",
+          "url": "https://www.meshlab.net/#download"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/cnr-isti-vclab/meshlab/releases"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/cnr-isti-vclab/meshlab/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-lammps",
+  "updatedAt": "2026-07-25",
+  "details": {
+    "identity": { "status": "pending" },
+    "overview": { "status": "pending" },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "LAMMPS 的官方仓库、安装文档、发行、社区和生态入口已建立来源记录。",
+      "website": "https://www.lammps.org/",
+      "documentation": "https://docs.lammps.org/",
+      "releases": "https://www.lammps.org/download.html",
+      "license": "默认公开发行版使用 GPL-2.0；另有按请求提供的 LGPL 变体，不能与默认发行混淆。",
+      "installation": "官方文档覆盖预编译包、Conda、tarball、CMake 源码构建及可选 MPI/GPU 包。",
+      "community": "GitHub Issues、GitHub Discussions 与 Matsci LAMMPS 分类是已记录的协作入口。",
+      "ecosystem": "官方 packages、Python/Fortran 库接口、势函数、前后处理工具和 LAMMPS-GUI。",
+      "maintenance": "综合判断：基础设施级、活跃维护；官方持续发布并维护构建和社区文档。",
+      "links": [
+        { "label": "官方仓库", "url": "https://github.com/lammps/lammps" },
+        { "label": "官网", "url": "https://www.lammps.org/" },
+        { "label": "官方文档", "url": "https://docs.lammps.org/" },
+        { "label": "下载", "url": "https://www.lammps.org/download.html" },
+        { "label": "社区", "url": "https://matsci.org/c/lammps/40" }
+      ]
+    },
+    "scope": { "status": "pending" },
+    "theory": { "status": "pending" },
+    "extensions": { "status": "pending" },
+    "references": { "status": "pending" },
+    "media": { "status": "pending" }
+  }
+}

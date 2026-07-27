@@ -1,0 +1,53 @@
+{
+  "id": "project-liggghts",
+  "slug": "liggghts",
+  "name": "LIGGGHTS",
+  "aliases": [],
+  "sourceUrl": "https://github.com/CFDEMproject/LIGGGHTS-PUBLIC",
+  "taxonomyIds": [
+    "topic-04-04"
+  ],
+  "card": {
+    "summary": "针对颗粒工程扩展 DEM 能力，支持接触、传热、黏附和多种粒子形状，并可与 CFD 耦合，适合粉体、散料和工业颗粒过程模拟。",
+    "language": "Python / C",
+    "platform": "Windows",
+    "method": "离散元法（DEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/LIGGGHTS.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

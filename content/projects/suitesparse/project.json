@@ -1,0 +1,53 @@
+{
+  "id": "project-suitesparse",
+  "slug": "suitesparse",
+  "name": "SuiteSparse",
+  "aliases": [],
+  "sourceUrl": "https://github.com/DrTimothyAldenDavis/SuiteSparse",
+  "taxonomyIds": [
+    "topic-08-01"
+  ],
+  "card": {
+    "summary": "汇集稀疏矩阵重排序、直接分解、图算法和优化等核心组件，包含 CHOLMOD、UMFPACK 等成熟求解器，为科学计算软件提供高效底层能力。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "稀疏直接求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SuiteSparse.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

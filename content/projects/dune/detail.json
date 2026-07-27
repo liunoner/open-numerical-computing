@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-dune",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/DUNE.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "DUNE（https://www.dune-project.org/）",
+      "documentation": "DUNE Docs（https://www.dune-project.org/doc/）",
+      "releases": "Stable Releases（https://www.dune-project.org/doc/releases/） 与各模块 GitLab tags；安装可使用二进制包、PyPI 或源码。",
+      "license": "GPL-2.0 with runtime exception（模板例外）；实际模块许可证以各模块 LICENSE 为准，见 官方 License 页（https://www.dune-project.org/about/license/）。",
+      "installation": "支持 Linux 包、源码、Python bindings/PyPI 与 WSL；CMake、C++ 编译器及模块依赖由 官方构建指南（https://www.dune-project.org/installation/installation-buildsrc/） 说明。",
+      "community": "邮件列表（https://lists.dune-project.org/）、各 GitLab issue tracker、用户会议和开发者社区。",
+      "ecosystem": "生态由 core、grid、discretization、I/O、extension、application modules 构成；DuMuX 等为基于 DUNE 的独立应用框架。",
+      "maintenance": "综合判断：成熟、活跃维护的模块化数值框架。官方同时维护发布、源码、文档、邮件列表和会议机制。",
+      "links": [
+        {
+          "label": "dune-common",
+          "url": "https://gitlab.dune-project.org/core/dune-common"
+        },
+        {
+          "label": "模块目录",
+          "url": "https://www.dune-project.org/modules/"
+        },
+        {
+          "label": "DUNE",
+          "url": "https://www.dune-project.org/"
+        },
+        {
+          "label": "DUNE Docs",
+          "url": "https://www.dune-project.org/doc/"
+        },
+        {
+          "label": "Stable Releases",
+          "url": "https://www.dune-project.org/doc/releases/"
+        },
+        {
+          "label": "官方 License 页",
+          "url": "https://www.dune-project.org/about/license/"
+        },
+        {
+          "label": "官方构建指南",
+          "url": "https://www.dune-project.org/installation/installation-buildsrc/"
+        },
+        {
+          "label": "邮件列表",
+          "url": "https://lists.dune-project.org/"
+        },
+        {
+          "label": "People",
+          "url": "https://www.dune-project.org/community/people/"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "project-amgcl",
+  "slug": "amgcl",
+  "name": "AMGCL",
+  "aliases": [],
+  "sourceUrl": "https://github.com/ddemidov/amgcl",
+  "taxonomyIds": [
+    "topic-08-02",
+    "topic-08-06",
+    "topic-08-07"
+  ],
+  "card": {
+    "summary": "以 Algebraic Multigrid 预条件与 Krylov 迭代为核心，提供可组合的稀疏线性系统求解器，并支持 OpenMP、CUDA、OpenCL 和 MPI 后端。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "Krylov 迭代求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/AMGCL.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

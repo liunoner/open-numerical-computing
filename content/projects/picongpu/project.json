@@ -1,0 +1,53 @@
+{
+  "id": "project-picongpu",
+  "slug": "picongpu",
+  "name": "PIConGPU",
+  "aliases": [],
+  "sourceUrl": "https://github.com/ComputationalRadiationPhysics/picongpu",
+  "taxonomyIds": [
+    "topic-04-06"
+  ],
+  "card": {
+    "summary": "采用性能可移植的 PIC 框架在 GPU 集群模拟相对论等离子体，面向激光—等离子体加速、高能密度物理等问题提供大规模并行能力。",
+    "language": "C",
+    "platform": "Windows",
+    "method": "粒子—网格法（PIC）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PIConGPU.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

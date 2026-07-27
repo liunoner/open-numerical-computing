@@ -1,0 +1,57 @@
+{
+  "id": "project-perilab-jl",
+  "slug": "perilab-jl",
+  "name": "PeriLab.jl",
+  "aliases": [],
+  "sourceUrl": "https://github.com/PeriHub/PeriLab.jl",
+  "taxonomyIds": [
+    "topic-06-01",
+    "topic-06-02",
+    "topic-06-03",
+    "topic-06-08",
+    "topic-06-09"
+  ],
+  "card": {
+    "summary": "在 Julia 中提供模块化近场动力学实验平台，支持材料模型、载荷和离散策略的组合，适合断裂、损伤及非局部力学算法研究与复现。",
+    "language": "Julia / C",
+    "platform": "Windows / Linux",
+    "method": "键基近场动力学"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PeriLab.jl.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

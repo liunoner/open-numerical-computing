@@ -1,0 +1,53 @@
+{
+  "id": "project-zoltan",
+  "slug": "zoltan",
+  "name": "Zoltan",
+  "aliases": [],
+  "sourceUrl": "https://github.com/sandialabs/Zoltan",
+  "taxonomyIds": [
+    "topic-08-09"
+  ],
+  "card": {
+    "summary": "为并行自适应计算提供动态负载均衡、图与超图划分、矩阵重排序和分布式目录等服务，可减少数据迁移与通信开销，适合大规模非结构网格应用。",
+    "language": "C",
+    "platform": "Windows",
+    "method": "自适应网格与负载均衡"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Zoltan.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

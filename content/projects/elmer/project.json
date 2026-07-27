@@ -1,0 +1,55 @@
+{
+  "id": "project-elmer",
+  "slug": "elmer",
+  "name": "Elmer",
+  "aliases": [],
+  "sourceUrl": "https://github.com/ElmerCSC/elmerfem",
+  "taxonomyIds": [
+    "topic-07-07",
+    "topic-07-08",
+    "topic-07-10"
+  ],
+  "card": {
+    "summary": "集成流体、结构、传热、电磁、声学等有限元模型及图形化工具，适合多物理场耦合与研究型工程仿真，并支持 MPI 并行计算。",
+    "language": "Fortran",
+    "platform": "Windows / Linux / macOS",
+    "method": "热—结构耦合"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Elmer.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

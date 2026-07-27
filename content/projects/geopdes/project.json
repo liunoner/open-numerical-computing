@@ -1,0 +1,53 @@
+{
+  "id": "project-geopdes",
+  "slug": "geopdes",
+  "name": "GeoPDEs",
+  "aliases": [],
+  "sourceUrl": "https://github.com/rafavzqz/GeoPDEs",
+  "taxonomyIds": [
+    "topic-03-09"
+  ],
+  "card": {
+    "summary": "面向 MATLAB 与 Octave 提供等几何分析实现，使用 B-spline 与 NURBS 同时描述几何和近似空间，适合教学、算法验证与 IGA 原型开发。",
+    "language": "MATLAB",
+    "platform": "Windows",
+    "method": "等几何分析（IGA）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/GeoPDEs.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

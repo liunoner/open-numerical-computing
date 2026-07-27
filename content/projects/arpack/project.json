@@ -1,0 +1,53 @@
+{
+  "id": "project-arpack",
+  "slug": "arpack",
+  "name": "ARPACK",
+  "aliases": [],
+  "sourceUrl": "https://github.com/opencollab/arpack-ng",
+  "taxonomyIds": [
+    "topic-08-04"
+  ],
+  "card": {
+    "summary": "采用隐式重启 Arnoldi 与 Lanczos 方法，面向大型稀疏矩阵高效提取少量特征对，适用于模态分析、稳定性分析和谱计算。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "特征值与模态分析求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/ARPACK.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

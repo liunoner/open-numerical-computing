@@ -1,0 +1,54 @@
+{
+  "id": "project-pynastran",
+  "slug": "pynastran",
+  "name": "pyNastran",
+  "aliases": [],
+  "sourceUrl": "https://github.com/SteveDoyle2/pyNastran",
+  "taxonomyIds": [
+    "topic-01-07",
+    "topic-09-02"
+  ],
+  "card": {
+    "summary": "使用 Python 读写和检查 Nastran BDF、OP2 等文件，并提供模型编辑、结果提取与格式转换能力，适合航空航天结构数据的自动化处理。",
+    "language": "Python",
+    "platform": "Windows / Linux",
+    "method": "几何与模型格式互操作"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/pyNastran.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

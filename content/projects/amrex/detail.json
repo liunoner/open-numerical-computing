@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-amrex",
+  "updatedAt": "2026-07-25",
+  "details": {
+    "identity": { "status": "pending" },
+    "overview": { "status": "pending" },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "AMReX 的官方项目、文档、发行、社区与维护资料均已建立来源记录。",
+      "website": "https://amrex-codes.github.io/amrex/",
+      "documentation": "https://amrex-codes.github.io/amrex/docs_html/",
+      "releases": "https://github.com/AMReX-Codes/amrex/releases",
+      "license": "BSD-3-Clause。",
+      "installation": "采用 CMake 构建；官方文档覆盖 CPU/GPU、MPI、Fortran、Python 与外部工具配置。",
+      "community": "官方 Community 页面提供协作入口，并链接 GitHub Issues 与 Discussions。",
+      "ecosystem": "官方维护教程、示例和 AMReX-powered 项目索引。",
+      "maintenance": "综合判断：活跃维护；官方文档说明开发公开进行，并有月度标签发布。",
+      "links": [
+        { "label": "官方仓库", "url": "https://github.com/AMReX-Codes/amrex" },
+        { "label": "官网", "url": "https://amrex-codes.github.io/amrex/" },
+        { "label": "官方文档", "url": "https://amrex-codes.github.io/amrex/docs_html/" },
+        { "label": "发行页", "url": "https://github.com/AMReX-Codes/amrex/releases" },
+        { "label": "社区", "url": "https://amrex-codes.github.io/amrex/help.html" }
+      ]
+    },
+    "scope": { "status": "pending" },
+    "theory": { "status": "pending" },
+    "extensions": { "status": "pending" },
+    "references": { "status": "pending" },
+    "media": { "status": "pending" }
+  }
+}

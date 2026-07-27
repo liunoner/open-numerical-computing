@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-arpack",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/ARPACK.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "未发现独立官网；以 ARPACK-NG GitHub 仓库（https://github.com/opencollab/arpack-ng） 为主入口。",
+      "documentation": "官方 DOCUMENTS 目录（https://github.com/opencollab/arpack-ng/tree/master/DOCUMENTS） 与 README（https://github.com/opencollab/arpack-ng）",
+      "releases": "GitHub Releases（https://github.com/opencollab/arpack-ng/releases）",
+      "license": "BSD-style；以 官方 COPYING（https://github.com/opencollab/arpack-ng/blob/master/COPYING） 为准，SPDX 名称待人工复核。",
+      "installation": "Autotools/CMake 源码构建；必须依赖 BLAS、LAPACK，MPI、Eigen3、Boost.Python 为按需依赖，见 README（https://github.com/opencollab/arpack-ng）",
+      "community": "GitHub Issues（https://github.com/opencollab/arpack-ng/issues）、Pull Requests；未发现独立官方论坛。",
+      "ecosystem": "包含 PARPACK 并行组件、示例和文档目录；作为 Octave、Scilab、Debian 等共同维护的 ARPACK 发行源。",
+      "maintenance": "综合判断：维护型基础库。公开发行、测试和社区协作持续存在；应按最新标签与提交活动复核。",
+      "links": [
+        {
+          "label": "ARPACK-NG 官方 GitHub 仓库",
+          "url": "https://github.com/opencollab/arpack-ng"
+        },
+        {
+          "label": "官方 DOCUMENTS 目录",
+          "url": "https://github.com/opencollab/arpack-ng/tree/master/DOCUMENTS"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/opencollab/arpack-ng/releases"
+        },
+        {
+          "label": "官方 COPYING",
+          "url": "https://github.com/opencollab/arpack-ng/blob/master/COPYING"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/opencollab/arpack-ng/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

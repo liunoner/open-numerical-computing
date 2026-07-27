@@ -1,0 +1,53 @@
+{
+  "id": "project-fbpic",
+  "slug": "fbpic",
+  "name": "FBPIC",
+  "aliases": [],
+  "sourceUrl": "https://github.com/fbpic/fbpic",
+  "taxonomyIds": [
+    "topic-04-06"
+  ],
+  "card": {
+    "summary": "采用 Fourier–Bessel 准三维谱 PIC 表示相对论等离子体，在近轴对称问题中兼顾三维物理与较低计算成本，并支持 CPU 与 GPU。",
+    "language": "Python / C",
+    "platform": "Windows",
+    "method": "粒子—网格法（PIC）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FBPIC.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

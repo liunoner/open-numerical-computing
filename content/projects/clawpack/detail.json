@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-clawpack",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Clawpack.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Clawpack（https://www.clawpack.org/）",
+      "documentation": "Clawpack Documentation（https://www.clawpack.org/）",
+      "releases": "GitHub Releases（https://github.com/clawpack/clawpack/releases）；安装可通过 Conda/PyPI/源码等，见官方安装说明。",
+      "license": "BSD-3-Clause，见 LICENSE（https://github.com/clawpack/clawpack/blob/master/LICENSE）。各子包许可证以其仓库文件为准。",
+      "installation": "推荐用 Conda 安装或从源码配置；Python/Fortran 编译环境和可选并行依赖按 安装文档（https://www.clawpack.org/installing.html） 选择。",
+      "community": "Community（https://www.clawpack.org/community.html） 页面集中邮件列表、支持和 Issue 报告方式；各子库另有 Issues。",
+      "ecosystem": "核心生态包括 Classic、AMRClaw、GeoClaw、PyClaw、VisClaw 和 Riemann solvers；详见 求解器选择页（https://www.clawpack.org/whichclaw.html）。",
+      "maintenance": "综合判断：成熟且活跃维护。官网持续发布版本化文档、维护社区入口和子项目生态；最近活动须以各仓库发行记录复核。",
+      "links": [
+        {
+          "label": "clawpack/clawpack",
+          "url": "https://github.com/clawpack/clawpack"
+        },
+        {
+          "label": "Clawpack",
+          "url": "https://www.clawpack.org/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/clawpack/clawpack/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/clawpack/clawpack/blob/master/LICENSE"
+        },
+        {
+          "label": "安装文档",
+          "url": "https://www.clawpack.org/installing.html"
+        },
+        {
+          "label": "Community",
+          "url": "https://www.clawpack.org/community.html"
+        },
+        {
+          "label": "求解器选择页",
+          "url": "https://www.clawpack.org/whichclaw.html"
+        },
+        {
+          "label": "NumFOCUS affiliated project",
+          "url": "https://numfocus.org/project/clawpack"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

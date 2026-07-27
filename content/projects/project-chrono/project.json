@@ -1,0 +1,54 @@
+{
+  "id": "project-project-chrono",
+  "slug": "project-chrono",
+  "name": "Project Chrono",
+  "aliases": [],
+  "sourceUrl": "https://github.com/projectchrono/chrono",
+  "taxonomyIds": [
+    "topic-04-04",
+    "topic-05-11"
+  ],
+  "card": {
+    "summary": "C++ 多物理动力学库，覆盖刚柔多体、接触、车辆、颗粒和流体耦合，并提供 GPU 与并行支持，适合机械系统与工程装备仿真。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "离散元法（DEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Project Chrono.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

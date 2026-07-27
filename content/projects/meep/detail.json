@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-meep",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Meep.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "以 Meep Documentation（https://meep.readthedocs.io/en/latest/）和 NanoComp GitHub 组织为主要官方入口。",
+      "documentation": "MEEP Documentation（https://meep.readthedocs.io/en/latest/）。",
+      "releases": "GitHub Releases（https://github.com/NanoComp/meep/releases）及官方 Conda 包。",
+      "license": "GPL-2.0；以仓库 LICENSE（https://github.com/NanoComp/meep/blob/master/LICENSE）为准。",
+      "installation": "Installation（https://meep.readthedocs.io/en/latest/Installation/）说明 Conda 推荐路径和源码构建；完整构建涉及 MPB、libctl、MPI、OpenMP、HDF5、Python/Guile、BLAS/LAPACK/FFTW 等。",
+      "community": "GitHub Issues（https://github.com/NanoComp/meep/issues）、Discussions（https://github.com/NanoComp/meep/discussions）及 `meep-announce` 发布邮件列表。",
+      "ecosystem": "Python、Scheme、C++ API，MPB/Harminv/Libctl 生态，MPI 并行与 HDF5 数据工作流。",
+      "maintenance": "成熟、活跃维护。仓库有 2026 年正式发行、当前文档及开放协作入口。",
+      "links": [
+        {
+          "label": "NanoComp/meep",
+          "url": "https://github.com/NanoComp/meep"
+        },
+        {
+          "label": "Meep Documentation",
+          "url": "https://meep.readthedocs.io/en/latest/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/NanoComp/meep/releases"
+        },
+        {
+          "label": "仓库 LICENSE",
+          "url": "https://github.com/NanoComp/meep/blob/master/LICENSE"
+        },
+        {
+          "label": "Installation",
+          "url": "https://meep.readthedocs.io/en/latest/Installation/"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/NanoComp/meep/issues"
+        },
+        {
+          "label": "Discussions",
+          "url": "https://github.com/NanoComp/meep/discussions"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

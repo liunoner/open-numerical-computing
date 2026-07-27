@@ -1,0 +1,53 @@
+{
+  "id": "project-vedo",
+  "slug": "vedo",
+  "name": "vedo",
+  "aliases": [],
+  "sourceUrl": "https://github.com/marcomusy/vedo",
+  "taxonomyIds": [
+    "topic-09-04"
+  ],
+  "card": {
+    "summary": "建立在 VTK 与 NumPy 之上的轻量 Python 工具包，用于网格、点云和体数据的分析、交互渲染与动画制作，适合快速探索和科研制图。",
+    "language": "Python / C",
+    "platform": "Windows",
+    "method": "体渲染、切片与等值面"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/vedo.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

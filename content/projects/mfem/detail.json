@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-mfem",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MFEM.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "mfem.org（https://mfem.org/）。",
+      "documentation": "MFEM 文档（https://mfem.org/documentation/）与Doxygen（https://docs.mfem.org/）。",
+      "releases": "mfem.org/download（https://mfem.org/download/）与GitHub Releases（https://github.com/mfem/mfem/releases）。",
+      "license": "BSD-3-Clause；以LICENSE（https://github.com/mfem/mfem/blob/master/LICENSE）与 NOTICE 为准。",
+      "installation": "仓库 INSTALL（https://github.com/mfem/mfem/blob/master/INSTALL）；Make/CMake 构建，MPI/GPU、HYPRE/PETSc 等依赖按配置启用。",
+      "community": "Issues（https://github.com/mfem/mfem/issues）、Discussions（https://github.com/mfem/mfem/discussions）、社区活动与贡献指南。",
+      "ecosystem": "PyMFEM、miniapps、CEED/RADIUSS、HYPRE、PETSc、SUNDIALS、VisIt/ParaView/GLVis 等。",
+      "maintenance": "基础设施级、活跃维护。近期 release、文档、miniapps 和开放协作均可确认。",
+      "links": [
+        {
+          "label": "mfem/mfem",
+          "url": "https://github.com/mfem/mfem"
+        },
+        {
+          "label": "mfem.org",
+          "url": "https://mfem.org/"
+        },
+        {
+          "label": "MFEM 文档",
+          "url": "https://mfem.org/documentation/"
+        },
+        {
+          "label": "Doxygen",
+          "url": "https://docs.mfem.org/"
+        },
+        {
+          "label": "mfem.org/download",
+          "url": "https://mfem.org/download/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/mfem/mfem/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/mfem/mfem/blob/master/LICENSE"
+        },
+        {
+          "label": "INSTALL",
+          "url": "https://github.com/mfem/mfem/blob/master/INSTALL"
+        },
+        {
+          "label": "Issues",
+          "url": "https://github.com/mfem/mfem/issues"
+        },
+        {
+          "label": "Discussions",
+          "url": "https://github.com/mfem/mfem/discussions"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

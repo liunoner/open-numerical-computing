@@ -1,0 +1,60 @@
+{
+  "id": "project-mfem",
+  "slug": "mfem",
+  "name": "MFEM",
+  "aliases": [],
+  "sourceUrl": "https://github.com/mfem/mfem",
+  "taxonomyIds": [
+    "topic-03-01",
+    "topic-03-02",
+    "topic-03-03",
+    "topic-03-06",
+    "topic-03-10",
+    "topic-08-05",
+    "topic-08-07",
+    "topic-08-12"
+  ],
+  "card": {
+    "summary": "轻量且可扩展的 C++ 有限元库，支持高阶曲线网格、多类离散和并行计算，并通过丰富 miniapp 服务流体、结构、电磁等 PDE 应用开发。",
+    "language": "C++ / MATLAB",
+    "platform": "Windows",
+    "method": "连续 Galerkin 有限元法（FEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/MFEM.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

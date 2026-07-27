@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-firedrake",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Firedrake.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Firedrake Project（https://www.firedrakeproject.org/）",
+      "documentation": "Firedrake Documentation（https://www.firedrakeproject.org/documentation.html）",
+      "releases": "GitHub Releases（https://github.com/firedrakeproject/firedrake/releases）；官方支持 pip 与源码安装。",
+      "license": "LGPL-3.0-or-later，见 LICENSE（https://github.com/firedrakeproject/firedrake/blob/main/LICENSE）。",
+      "installation": "官方安装包括 Python、PETSc、MPI、HDF5 和 Firedrake 组件；`firedrake-configure` 可生成配置，详见 安装文档（https://www.firedrakeproject.org/install.html）。",
+      "community": "GitHub Issues（https://github.com/firedrakeproject/firedrake/issues）、Zulip（https://firedrake.zulipchat.com/） 和项目联系渠道。",
+      "ecosystem": "核心组件包括 PyOP2、TSFC、FIAT、UFL、PETSc；外部应用框架需分别核验。",
+      "maintenance": "综合判断：成熟、活跃维护。官方提供持续测试、版本化文档、HPC 安装和公开社区。",
+      "links": [
+        {
+          "label": "firedrakeproject/firedrake",
+          "url": "https://github.com/firedrakeproject/firedrake"
+        },
+        {
+          "label": "Firedrake Project",
+          "url": "https://www.firedrakeproject.org/"
+        },
+        {
+          "label": "Firedrake Documentation",
+          "url": "https://www.firedrakeproject.org/documentation.html"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/firedrakeproject/firedrake/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/firedrakeproject/firedrake/blob/main/LICENSE"
+        },
+        {
+          "label": "安装文档",
+          "url": "https://www.firedrakeproject.org/install.html"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/firedrakeproject/firedrake/issues"
+        },
+        {
+          "label": "Zulip",
+          "url": "https://firedrake.zulipchat.com/"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

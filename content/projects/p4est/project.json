@@ -1,0 +1,54 @@
+{
+  "id": "project-p4est",
+  "slug": "p4est",
+  "name": "p4est",
+  "aliases": [],
+  "sourceUrl": "https://github.com/p4est/p4est",
+  "taxonomyIds": [
+    "topic-02-07",
+    "topic-08-09"
+  ],
+  "card": {
+    "summary": "基于并行森林四叉树/八叉树管理自适应网格与负载均衡，可高效处理局部细化和分布式拓扑，是 AMR 有限元与有限体积应用的基础库。",
+    "language": "C",
+    "platform": "跨平台",
+    "method": "网格自适应与重网格"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/p4est.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

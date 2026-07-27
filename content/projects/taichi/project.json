@@ -1,0 +1,53 @@
+{
+  "id": "project-taichi",
+  "slug": "taichi",
+  "name": "Taichi",
+  "aliases": [],
+  "sourceUrl": "https://github.com/taichi-dev/taichi",
+  "taxonomyIds": [
+    "topic-04-05"
+  ],
+  "card": {
+    "summary": "嵌入 Python 的高性能并行编程语言，通过 JIT 编译将数值 kernel 加速至多核 CPU 或 GPU，特别适合物理仿真、图形计算与可微编程原型。",
+    "language": "Python / Julia",
+    "platform": "Windows / Linux / macOS / Web",
+    "method": "物质点法（MPM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Taichi.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

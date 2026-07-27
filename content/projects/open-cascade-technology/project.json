@@ -1,0 +1,62 @@
+{
+  "id": "project-open-cascade-technology",
+  "slug": "open-cascade-technology",
+  "name": "Open CASCADE Technology",
+  "aliases": [
+    "OCCT"
+  ],
+  "sourceUrl": "https://github.com/Open-Cascade-SAS/OCCT",
+  "taxonomyIds": [
+    "topic-01-03",
+    "topic-01-07"
+  ],
+  "card": {
+    "summary": "提供工业级三维几何建模内核，覆盖 B-Rep、NURBS、布尔运算、STEP/IGES 交换与可视化，是许多 CAD、CAM 和 CAE 软件的基础组件。",
+    "language": "C++",
+    "platform": "Windows / Linux / macOS",
+    "method": "几何内核与 CAD 二次开发"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OCCT.md"
+  ],
+  "mapping": {
+    "files": [
+      "OCCT.md"
+    ],
+    "aliases": [
+      "OCCT"
+    ],
+    "status": "verified_alias",
+    "note": "OCCT 是 Open CASCADE Technology 的常用缩写。"
+  }
+}

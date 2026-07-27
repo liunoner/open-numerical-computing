@@ -1,0 +1,58 @@
+{
+  "id": "project-petsc",
+  "slug": "petsc",
+  "name": "PETSc",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.com/petsc/petsc",
+  "taxonomyIds": [
+    "topic-08-02",
+    "topic-08-03",
+    "topic-08-05",
+    "topic-08-06",
+    "topic-08-08",
+    "topic-08-10"
+  ],
+  "card": {
+    "summary": "提供可组合的数据结构、非线性和线性求解器及时间积分工具，面向分布式 PDE 数值计算高度可扩展，是众多科学软件的核心求解基础。",
+    "language": "C / Python",
+    "platform": "Windows",
+    "method": "Krylov 迭代求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PETSc.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-openmpi",
+  "slug": "openmpi",
+  "name": "OpenMPI",
+  "aliases": [],
+  "sourceUrl": "https://github.com/open-mpi/ompi",
+  "taxonomyIds": [
+    "topic-08-10"
+  ],
+  "card": {
+    "summary": "提供高性能、可移植的 MPI 通信实现，覆盖集群和超算环境的进程管理与网络后端，是大规模分布式数值模拟和并行程序的核心运行时。",
+    "language": "Python",
+    "platform": "Windows",
+    "method": "MPI 与分布式内存并行"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OpenMPI.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

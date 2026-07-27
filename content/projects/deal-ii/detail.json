@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-deal-ii",
+  "updatedAt": "2026-07-25",
+  "details": {
+    "identity": { "status": "pending" },
+    "overview": { "status": "pending" },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "deal.II 的官方仓库、文档、发行、安装、社区和维护资料已建立来源记录。",
+      "website": "https://www.dealii.org/",
+      "documentation": "https://www.dealii.org/current/doxygen/deal.II/index.html",
+      "releases": "https://github.com/dealii/dealii/releases",
+      "license": "LGPL-2.1-or-later；项目同时推进 Apache-2.0 with LLVM Exception 的双许可迁移，适用范围以官方 LICENSE 为准。",
+      "installation": "使用 CMake 构建；官方支持源码、预构建 Docker 镜像和 candi 依赖安装器。",
+      "community": "GitHub Issues、邮件列表与官网 Help/Participate 页面提供协作入口。",
+      "ecosystem": "官方 tutorials、code gallery、Docker 镜像和 candi；下游应用项目须分别建档。",
+      "maintenance": "综合判断：成熟、活跃维护；官方持续发布并维护教程和用户/开发者社区。",
+      "links": [
+        { "label": "官方仓库", "url": "https://github.com/dealii/dealii" },
+        { "label": "官网", "url": "https://www.dealii.org/" },
+        { "label": "官方文档", "url": "https://www.dealii.org/current/doxygen/deal.II/index.html" },
+        { "label": "发行页", "url": "https://github.com/dealii/dealii/releases" },
+        { "label": "社区邮件列表", "url": "https://groups.google.com/g/dealii" }
+      ]
+    },
+    "scope": { "status": "pending" },
+    "theory": { "status": "pending" },
+    "extensions": { "status": "pending" },
+    "references": { "status": "pending" },
+    "media": { "status": "pending" }
+  }
+}

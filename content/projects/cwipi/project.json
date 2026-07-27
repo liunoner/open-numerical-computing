@@ -1,0 +1,53 @@
+{
+  "id": "project-cwipi",
+  "slug": "cwipi",
+  "name": "CWIPI",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.com/cea-hpc/cwipi",
+  "taxonomyIds": [
+    "topic-07-11"
+  ],
+  "card": {
+    "summary": "为分区多物理仿真提供并行场数据交换、网格插值与耦合通信能力，可连接异构求解器并支撑流固等协同计算流程。",
+    "language": "C / Fortran",
+    "platform": "跨平台",
+    "method": "协同仿真与求解器耦合"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/CWIPI.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

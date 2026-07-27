@@ -1,0 +1,54 @@
+{
+  "id": "project-openlb",
+  "slug": "openlb",
+  "name": "OpenLB",
+  "aliases": [],
+  "sourceUrl": "https://github.com/openLB/openLB",
+  "taxonomyIds": [
+    "topic-04-09",
+    "topic-04-10"
+  ],
+  "card": {
+    "summary": "提供通用 Lattice Boltzmann Method 框架，面向复杂流体、传热和多相问题组织高性能计算，适合孔隙流、微流控和工程流动模拟。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "格子 Boltzmann 法（LBM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OpenLB.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

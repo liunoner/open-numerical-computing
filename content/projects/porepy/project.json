@@ -1,0 +1,53 @@
+{
+  "id": "project-porepy",
+  "slug": "porepy",
+  "name": "PorePy",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pmgbergen/porepy",
+  "taxonomyIds": [
+    "topic-07-05"
+  ],
+  "card": {
+    "summary": "以 Python 面向裂隙与可变形多孔介质建模，支持多维耦合网格、流动和传输方程，适合地下裂隙网络与地质力学研究。",
+    "language": "Python",
+    "platform": "Windows / Web",
+    "method": "多尺度流动与传输"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PorePy.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

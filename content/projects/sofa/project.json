@@ -1,0 +1,54 @@
+{
+  "id": "project-sofa",
+  "slug": "sofa",
+  "name": "SOFA",
+  "aliases": [],
+  "sourceUrl": "https://github.com/sofa-framework/sofa",
+  "taxonomyIds": [
+    "topic-03-01",
+    "topic-05-11"
+  ],
+  "card": {
+    "summary": "用于实时交互式物理仿真的模块化 C++ 框架，可将同一对象的力学、碰撞和可视化模型映射耦合，重点支持医学训练、生物力学与机器人。",
+    "language": "C",
+    "platform": "Windows",
+    "method": "连续 Galerkin 有限元法（FEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SOFA.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

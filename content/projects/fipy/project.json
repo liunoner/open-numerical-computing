@@ -1,0 +1,55 @@
+{
+  "id": "project-fipy",
+  "slug": "fipy",
+  "name": "FiPy",
+  "aliases": [],
+  "sourceUrl": "https://github.com/usnistgov/fipy",
+  "taxonomyIds": [
+    "topic-03-04",
+    "topic-05-02",
+    "topic-05-03"
+  ],
+  "card": {
+    "summary": "在 Python 中以面向对象方式定义有限体积 PDE，适合扩散、相场和传输问题的快速建模；代码清晰，便于教学、验证与自定义方程实验。",
+    "language": "Python",
+    "platform": "Windows",
+    "method": "有限体积法（FVM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FiPy.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

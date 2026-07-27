@@ -1,0 +1,54 @@
+{
+  "id": "project-parmmg",
+  "slug": "parmmg",
+  "name": "ParMmg",
+  "aliases": [],
+  "sourceUrl": "https://github.com/MmgTools/ParMmg",
+  "taxonomyIds": [
+    "topic-02-07",
+    "topic-08-09"
+  ],
+  "card": {
+    "summary": "在 Mmg 三维重网格能力之上提供 MPI 并行划分、局部重网格与再平衡流程，适合大规模各向异性网格自适应和时变仿真。",
+    "language": "C",
+    "platform": "Windows / Linux / macOS",
+    "method": "网格自适应与重网格"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/ParMmg.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "project-peridigm",
+  "slug": "peridigm",
+  "name": "Peridigm",
+  "aliases": [],
+  "sourceUrl": "https://github.com/peridigm/peridigm",
+  "taxonomyIds": [
+    "topic-06-01",
+    "topic-06-02",
+    "topic-06-03",
+    "topic-06-04",
+    "topic-06-05",
+    "topic-06-09"
+  ],
+  "card": {
+    "summary": "面向非局部近场动力学的开源计算代码，适于裂纹萌生、扩展和断裂等含不连续问题，并可利用并行线性代数基础设施进行大规模求解。",
+    "language": "C++ / Python",
+    "platform": "Linux",
+    "method": "键基近场动力学"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Peridigm.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

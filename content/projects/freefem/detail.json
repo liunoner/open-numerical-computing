@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-freefem",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/FreeFEM.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "FreeFEM（https://freefem.org/）",
+      "documentation": "FreeFEM Documentation（https://doc.freefem.org/documentation/）",
+      "releases": "官方 Download（https://doc.freefem.org/introduction/download.html） 与 GitHub 源码；提供多平台二进制和源码包。",
+      "license": "官网当前发布页标注 LGPL-3.0；历史版本/第三方模块许可不同，须以发行包和仓库 LICENSE 核验。",
+      "installation": "支持 Windows/macOS/Linux 二进制；源码经 autoconf/make 构建，PETSc、MPI、SLEPc、HPDDM 等为可选/并行依赖，见 安装指南（https://doc.freefem.org/introduction/installation.html）。",
+      "community": "FreeFEM Community（https://community.freefem.org/）、GitHub Issues（https://github.com/FreeFem/FreeFem-sources/issues） 和用户活动。",
+      "ecosystem": "FreeFem-modules、Docker、BAMG、PETSc/HPDDM 和 Gmsh/ParaView 等集成；许可证按模块分别核验。",
+      "maintenance": "综合判断：成熟、活跃维护。官网、GitHub、文档和论坛均有近期更新。",
+      "links": [
+        {
+          "label": "FreeFem/FreeFem-sources",
+          "url": "https://github.com/FreeFem/FreeFem-sources"
+        },
+        {
+          "label": "FreeFEM",
+          "url": "https://freefem.org/"
+        },
+        {
+          "label": "FreeFEM Documentation",
+          "url": "https://doc.freefem.org/documentation/"
+        },
+        {
+          "label": "官方 Download",
+          "url": "https://doc.freefem.org/introduction/download.html"
+        },
+        {
+          "label": "安装指南",
+          "url": "https://doc.freefem.org/introduction/installation.html"
+        },
+        {
+          "label": "FreeFEM Community",
+          "url": "https://community.freefem.org/"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/FreeFem/FreeFem-sources/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

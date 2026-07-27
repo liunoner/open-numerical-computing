@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-moose",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MOOSE.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "MOOSE Framework（https://mooseframework.inl.gov/）。",
+      "documentation": "MOOSE Docs（https://mooseframework.inl.gov/）。",
+      "releases": "GitHub Releases（https://github.com/idaholab/moose/releases）及版本化官网发布。",
+      "license": "LGPL-2.1；以LICENSE（https://github.com/idaholab/moose/blob/master/LICENSE）为准。",
+      "installation": "官方安装指南（https://mooseframework.inl.gov/getting_started/installation/index.html）；核心依赖 libMesh，提供环境/依赖脚本。",
+      "community": "GitHub Discussions（https://github.com/idaholab/moose/discussions）、Issues（https://github.com/idaholab/moose/issues）、Google Group/论坛及培训活动。",
+      "ecosystem": "MOOSE Apps、modules、libMesh、PETSc、SLEPc、MooseDocs、Peacock 与大量领域应用。",
+      "maintenance": "基础设施级、活跃维护；官方文档、版本发布、社区和下游应用生态完整。",
+      "links": [
+        {
+          "label": "idaholab/moose",
+          "url": "https://github.com/idaholab/moose"
+        },
+        {
+          "label": "MOOSE Framework",
+          "url": "https://mooseframework.inl.gov/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/idaholab/moose/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/idaholab/moose/blob/master/LICENSE"
+        },
+        {
+          "label": "安装指南",
+          "url": "https://mooseframework.inl.gov/getting_started/installation/index.html"
+        },
+        {
+          "label": "GitHub Discussions",
+          "url": "https://github.com/idaholab/moose/discussions"
+        },
+        {
+          "label": "Issues",
+          "url": "https://github.com/idaholab/moose/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

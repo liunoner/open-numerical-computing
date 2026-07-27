@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-adios2",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/ADIOS2.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "ADIOS2 官方文档主页（https://adios2.readthedocs.io/）",
+      "documentation": "ADIOS2 文档（https://adios2.readthedocs.io/）",
+      "releases": "GitHub Releases（https://github.com/ornladios/ADIOS2/releases）",
+      "license": "Apache-2.0；见 仓库 LICENSE（https://github.com/ornladios/ADIOS2/blob/master/LICENSE）",
+      "installation": "CMake 源码构建；另提供 Conda、Spack、Homebrew、系统包与容器路径，见 安装文档（https://adios2.readthedocs.io/en/v2.12.0/setting_up/setting_up.html）",
+      "community": "GitHub Discussions（https://github.com/ornladios/ADIOS2/discussions）、Issues（https://github.com/ornladios/ADIOS2/issues）；官方还列出邮件列表 adios-ecp@kitware.com。",
+      "ecosystem": "官方提供 C++、C、Fortran、Python、MATLAB 绑定及 ADIOS2-Examples（https://github.com/ornladios/ADIOS2-Examples） 示例库。",
+      "maintenance": "综合判断：活跃维护。仓库持续发布 2.x 版本，官方文档与发布说明持续更新。",
+      "links": [
+        {
+          "label": "官方 GitHub 仓库",
+          "url": "https://github.com/ornladios/ADIOS2"
+        },
+        {
+          "label": "ADIOS2 官方文档主页",
+          "url": "https://adios2.readthedocs.io/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/ornladios/ADIOS2/releases"
+        },
+        {
+          "label": "仓库 LICENSE",
+          "url": "https://github.com/ornladios/ADIOS2/blob/master/LICENSE"
+        },
+        {
+          "label": "安装文档",
+          "url": "https://adios2.readthedocs.io/en/v2.12.0/setting_up/setting_up.html"
+        },
+        {
+          "label": "GitHub Discussions",
+          "url": "https://github.com/ornladios/ADIOS2/discussions"
+        },
+        {
+          "label": "Issues",
+          "url": "https://github.com/ornladios/ADIOS2/issues"
+        },
+        {
+          "label": "ADIOS2-Examples",
+          "url": "https://github.com/ornladios/ADIOS2-Examples"
+        },
+        {
+          "label": "ORNL ADIOS GitHub 组织",
+          "url": "https://github.com/ornladios"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

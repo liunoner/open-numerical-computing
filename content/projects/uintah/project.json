@@ -1,0 +1,53 @@
+{
+  "id": "project-uintah",
+  "slug": "uintah",
+  "name": "Uintah",
+  "aliases": [],
+  "sourceUrl": "https://github.com/Uintah/Uintah",
+  "taxonomyIds": [
+    "topic-04-05"
+  ],
+  "card": {
+    "summary": "面向大规模多尺度、多物理场计算的并行框架，结合 AMR、流体算法与 MPM 粒子方法，适合流固耦合、燃烧和多材料动力学研究。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "物质点法（MPM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Uintah.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

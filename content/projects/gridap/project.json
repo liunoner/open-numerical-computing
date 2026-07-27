@@ -1,0 +1,57 @@
+{
+  "id": "project-gridap",
+  "slug": "gridap",
+  "name": "Gridap",
+  "aliases": [],
+  "sourceUrl": "https://github.com/gridap/Gridap.jl",
+  "taxonomyIds": [
+    "topic-03-10",
+    "topic-05-10"
+  ],
+  "card": {
+    "summary": "在 Julia 中以组合式 API 定义有限元空间、弱形式和求解流程，兼顾通用 PDE 建模与高性能数值计算，适合研究和可复现实验原型。",
+    "language": "Fortran / Julia",
+    "platform": "Windows",
+    "method": "有限单元与嵌入式网格方法"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Gridap ＋ GridapEmbedded.md"
+  ],
+  "mapping": {
+    "files": [
+      "Gridap ＋ GridapEmbedded.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料合并记录 Gridap 与 GridapEmbedded。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-oofem",
+  "slug": "oofem",
+  "name": "OOFEM",
+  "aliases": [],
+  "sourceUrl": "https://github.com/oofem/oofem",
+  "taxonomyIds": [
+    "topic-05-09"
+  ],
+  "card": {
+    "summary": "采用面向对象架构组织结构、传输、流体和多物理有限元模型，支持扩展单元与自定义材料，适合作为工程力学研究与代码开发平台。",
+    "language": "Python / C",
+    "platform": "Windows / Linux",
+    "method": "扩展有限元法（XFEM/GFEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/OOFEM.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

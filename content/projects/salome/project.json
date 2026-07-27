@@ -1,0 +1,55 @@
+{
+  "id": "project-salome",
+  "slug": "salome",
+  "name": "SALOME",
+  "aliases": [],
+  "sourceUrl": "https://github.com/orgs/SalomePlatform/repositories",
+  "taxonomyIds": [
+    "topic-01-04",
+    "topic-01-06",
+    "topic-02-03"
+  ],
+  "card": {
+    "summary": "提供参数化几何建模、网格生成、结果可视化与求解器集成的一体化 CAE 平台，适合搭建可复现的前后处理与多软件仿真流程。",
+    "language": "C++ / Python",
+    "platform": "跨平台",
+    "method": "CAE 前处理与模型装配"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SALOME.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

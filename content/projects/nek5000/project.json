@@ -1,0 +1,56 @@
+{
+  "id": "project-nek5000",
+  "slug": "nek5000",
+  "name": "Nek5000",
+  "aliases": [],
+  "sourceUrl": "https://github.com/Nek5000/Nek5000",
+  "taxonomyIds": [
+    "topic-03-08"
+  ],
+  "card": {
+    "summary": "采用谱元法求解不可压缩流动和传热问题，兼顾高阶精度与大规模并行效率，广泛用于湍流直接数值模拟及复杂流体力学研究。",
+    "language": "Fortran",
+    "platform": "Windows",
+    "method": "谱方法与谱元法"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Nek5000 ＋ NekRS.md"
+  ],
+  "mapping": {
+    "files": [
+      "Nek5000 ＋ NekRS.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料合并记录 Nek5000 与 NekRS。"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-tfel-mfront",
+  "slug": "tfel-mfront",
+  "name": "TFEL/MFront",
+  "aliases": [],
+  "sourceUrl": "https://github.com/thelfer/tfel",
+  "taxonomyIds": [
+    "topic-01-05"
+  ],
+  "card": {
+    "summary": "以领域专用语言描述材料属性与本构行为，并由 MFront 自动生成可嵌入求解器的 C++ 代码，适合弹塑性、蠕变和多场材料模型开发。",
+    "language": "C++ / C",
+    "platform": "Windows",
+    "method": "材料与本构模型开发"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/TFEL＋MFront.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

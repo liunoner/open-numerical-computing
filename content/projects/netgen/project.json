@@ -1,0 +1,55 @@
+{
+  "id": "project-netgen",
+  "slug": "netgen",
+  "name": "Netgen",
+  "aliases": [],
+  "sourceUrl": "https://github.com/NGSolve/netgen",
+  "taxonomyIds": [
+    "topic-02-01",
+    "topic-02-03",
+    "topic-02-05"
+  ],
+  "card": {
+    "summary": "集成 CAD 几何处理与高质量非结构网格生成，支持二维、三维及曲面网格，常与 NGSolve 配合用于有限元前处理和自适应计算。",
+    "language": "Python",
+    "platform": "Windows / Linux",
+    "method": "通用非结构网格生成"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Netgen.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

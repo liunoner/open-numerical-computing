@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-mmg",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MMG.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "mmgtools.org（https://www.mmgtools.org/）。",
+      "documentation": "mmg Documentation（https://www.mmgtools.org/）。",
+      "releases": "GitHub Releases（https://github.com/MmgTools/mmg/releases）、源码克隆及 Conda/Spack 包。",
+      "license": "LGPL；以仓库 LICENSE（https://github.com/MmgTools/mmg/blob/master/LICENSE）为准。",
+      "installation": "Install（https://mmgtools.org/install.html）说明 Git、CMake、C/C++ 编译器以及 Unix/Windows 构建；SCOTCH 等可选依赖。",
+      "community": "Issues（https://github.com/MmgTools/mmg/issues）、`mmg.users` 邮件列表和官网联系邮箱；旧论坛已停止。",
+      "ecosystem": "mmg2d/mmgs/mmg3d 应用与库，支持 Lagrangian 移动、适应重网格，常与 FreeFEM/Code_Aster 等工作流集成。",
+      "maintenance": "成熟、活跃维护；当前文档、源码、邮件列表与包管理入口均可用。",
+      "links": [
+        {
+          "label": "MmgTools/mmg",
+          "url": "https://github.com/MmgTools/mmg"
+        },
+        {
+          "label": "mmgtools.org",
+          "url": "https://www.mmgtools.org/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/MmgTools/mmg/releases"
+        },
+        {
+          "label": "仓库 LICENSE",
+          "url": "https://github.com/MmgTools/mmg/blob/master/LICENSE"
+        },
+        {
+          "label": "Install",
+          "url": "https://mmgtools.org/install.html"
+        },
+        {
+          "label": "Issues",
+          "url": "https://github.com/MmgTools/mmg/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "project-calculix-graphix",
+  "slug": "calculix-graphix",
+  "name": "CalculiX GraphiX",
+  "aliases": [],
+  "sourceUrl": "https://github.com/Dhondtguido/CalculiX",
+  "taxonomyIds": [
+    "topic-09-02"
+  ],
+  "card": {
+    "summary": "为 CalculiX 工作流提供图形化前后处理能力，可查看网格、边界条件和计算结果，帮助完成有限元模型检查与结构响应评估。",
+    "language": "C",
+    "platform": "Windows",
+    "method": "有限元与结构结果后处理"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/CalculiX.md"
+  ],
+  "mapping": {
+    "files": [
+      "CalculiX.md"
+    ],
+    "status": "candidate",
+    "note": "名称包含图形前后处理组件，需人工确认资料是否完整覆盖。"
+  }
+}

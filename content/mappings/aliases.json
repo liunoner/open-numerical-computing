@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "aliases": [
+    {
+      "alias": "OCCT",
+      "projectId": "project-open-cascade-technology",
+      "canonicalName": "Open CASCADE Technology"
+    }
+  ]
+}

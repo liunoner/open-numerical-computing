@@ -1,0 +1,53 @@
+{
+  "id": "project-pandas",
+  "slug": "pandas",
+  "name": "pandas",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pandas-dev/pandas",
+  "taxonomyIds": [
+    "topic-09-11"
+  ],
+  "card": {
+    "summary": "提供带标签的一维和二维数据结构及高效数据处理工具，适合清洗、对齐、统计和汇总仿真输出，是 Python 科学数据分析工作流的常用基础库。",
+    "language": "Python / C",
+    "platform": "Windows / Linux",
+    "method": "结果比较与数据分析"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/pandas.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

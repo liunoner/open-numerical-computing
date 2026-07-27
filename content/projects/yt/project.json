@@ -1,0 +1,54 @@
+{
+  "id": "project-yt",
+  "slug": "yt",
+  "name": "yt",
+  "aliases": [],
+  "sourceUrl": "https://github.com/yt-project/yt",
+  "taxonomyIds": [
+    "topic-09-08",
+    "topic-09-11"
+  ],
+  "card": {
+    "summary": "用于体数据分析与可视化的 Python 工具包，支持结构网格、AMR、非结构网格与粒子数据，可生成切片、投影、体绘制和物理量诊断结果。",
+    "language": "Python / C",
+    "platform": "Windows",
+    "method": "脚本化后处理与批量出图"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/yt.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

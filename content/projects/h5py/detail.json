@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-h5py",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/h5py.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "项目以 h5py 文档站（https://docs.h5py.org/en/stable/）和 GitHub 组织页作为主要官方入口，未见独立品牌官网。",
+      "documentation": "h5py Documentation（https://docs.h5py.org/en/stable/）。",
+      "releases": "PyPI h5py（https://pypi.org/project/h5py/）；同时可从 GitHub Releases（https://github.com/h5py/h5py/releases）获取源码发行信息。",
+      "license": "BSD-3-Clause；以仓库 LICENSE（https://github.com/h5py/h5py/blob/master/licenses/license.txt）和 PyPI 元数据为准。",
+      "installation": "安装/构建文档（https://docs.h5py.org/en/stable/build.html）说明 `pip install h5py` 的预构建 wheel 路径，源码构建依赖 Python、C 编译环境和 HDF5，MPI 支持另有说明。",
+      "community": "GitHub Issues（https://github.com/h5py/h5py/issues）为缺陷入口；文档还指向 h5py Google Groups 邮件列表。",
+      "ecosystem": "h5py 是 Python 对 HDF5 的高/低层接口，与 HDF5 库、NumPy 及 Python 科学计算生态直接集成；MPI HDF5 构建受官方文档支持。",
+      "maintenance": "成熟、活跃维护。官方文档持续更新、PyPI 有当前发行；判断依据为官方文档、包发布与仓库，不以下载量推断。",
+      "links": [
+        {
+          "label": "h5py/h5py",
+          "url": "https://github.com/h5py/h5py"
+        },
+        {
+          "label": "h5py 文档站",
+          "url": "https://docs.h5py.org/en/stable/"
+        },
+        {
+          "label": "PyPI h5py",
+          "url": "https://pypi.org/project/h5py/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/h5py/h5py/releases"
+        },
+        {
+          "label": "仓库 LICENSE",
+          "url": "https://github.com/h5py/h5py/blob/master/licenses/license.txt"
+        },
+        {
+          "label": "安装/构建文档",
+          "url": "https://docs.h5py.org/en/stable/build.html"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/h5py/h5py/issues"
+        },
+        {
+          "label": "贡献者页",
+          "url": "https://github.com/h5py/h5py/graphs/contributors"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

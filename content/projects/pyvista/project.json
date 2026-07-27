@@ -1,0 +1,56 @@
+{
+  "id": "project-pyvista",
+  "slug": "pyvista",
+  "name": "PyVista",
+  "aliases": [],
+  "sourceUrl": "https://github.com/pyvista/pyvista",
+  "taxonomyIds": [
+    "topic-09-01",
+    "topic-09-03",
+    "topic-09-08",
+    "topic-09-11"
+  ],
+  "card": {
+    "summary": "为 VTK 提供 Pythonic 三维可视化和网格分析接口，可快速构建交互图形、几何处理和后处理脚本，适合科学计算结果的探索与展示。",
+    "language": "C++ / Python",
+    "platform": "Windows",
+    "method": "通用科学可视化"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PyVista.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "project-trame",
+  "slug": "trame",
+  "name": "trame",
+  "aliases": [],
+  "sourceUrl": "https://github.com/Kitware/trame",
+  "taxonomyIds": [
+    "topic-09-10"
+  ],
+  "card": {
+    "summary": "基于 Python 的 Web 应用框架，将 VTK、ParaView 与 vtk.js 的可视化能力封装为交互界面，可快速发布远程渲染和科学数据分析应用。",
+    "language": "Python",
+    "platform": "Web",
+    "method": "Web 与远程可视化"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/vtk.js ＋ trame.md"
+  ],
+  "mapping": {
+    "files": [
+      "vtk.js ＋ trame.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料合并记录 vtk.js 与 trame。"
+  }
+}

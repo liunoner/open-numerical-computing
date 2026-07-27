@@ -1,0 +1,54 @@
+{
+  "id": "project-sundials",
+  "slug": "sundials",
+  "name": "SUNDIALS",
+  "aliases": [],
+  "sourceUrl": "https://github.com/LLNL/sundials",
+  "taxonomyIds": [
+    "topic-08-03",
+    "topic-08-05"
+  ],
+  "card": {
+    "summary": "面向 ODE、DAE 与非线性方程的模块化求解器套件，支持刚性、非刚性与多速率时间积分及灵敏度分析，可嵌入大规模科学计算程序。",
+    "language": "C++ / Python",
+    "platform": "Windows",
+    "method": "非线性求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SUNDIALS.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

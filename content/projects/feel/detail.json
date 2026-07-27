@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-feel",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Feel++.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Feel++（https://feelpp.org/）",
+      "documentation": "Feel++ Docs（https://docs.feelpp.org/home/index.html）",
+      "releases": "GitHub Releases（https://github.com/feelpp/feelpp/releases）；官方 stable/latest 通过 Docker、Debian/Ubuntu 包等渠道发布。",
+      "license": "主库为 LGPL-3.0；仓库同时包含其他许可文件，必须以 LICENSE（https://github.com/feelpp/feelpp/blob/develop/LICENSE） 和组件目录为准。",
+      "installation": "Docker、Debian/Ubuntu 包、源码、Homebrew 等；源码构建及依赖配置见 安装文档（https://docs.feelpp.org/user/latest/install/index.html）。",
+      "community": "Slack（https://feelpp.slack.com/）、GitHub Issues 和文档中的社区入口。",
+      "ecosystem": "feelpp、feelpp-toolboxes、feelpp-mor 三组件；另有 Docker、模型降阶工具和数据管理工具。",
+      "maintenance": "综合判断：成熟且活跃维护。官方称 develop 每次提交触发完整测试，发布与文档机制完整。",
+      "links": [
+        {
+          "label": "feelpp/feelpp",
+          "url": "https://github.com/feelpp/feelpp"
+        },
+        {
+          "label": "Feel++",
+          "url": "https://feelpp.org/"
+        },
+        {
+          "label": "Feel++ Docs",
+          "url": "https://docs.feelpp.org/home/index.html"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/feelpp/feelpp/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/feelpp/feelpp/blob/develop/LICENSE"
+        },
+        {
+          "label": "安装文档",
+          "url": "https://docs.feelpp.org/user/latest/install/index.html"
+        },
+        {
+          "label": "Slack",
+          "url": "https://feelpp.slack.com/"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

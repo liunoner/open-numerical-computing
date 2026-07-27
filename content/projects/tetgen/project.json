@@ -1,0 +1,53 @@
+{
+  "id": "project-tetgen",
+  "slug": "tetgen",
+  "name": "TetGen",
+  "aliases": [],
+  "sourceUrl": "https://wias-berlin.de/software/tetgen/",
+  "taxonomyIds": [
+    "topic-02-01"
+  ],
+  "card": {
+    "summary": "基于三维 Delaunay 三角剖分的高质量四面体网格生成器，可从点集或封闭表面构造体网格，并支持网格质量控制与局部加密。",
+    "language": "C++",
+    "platform": "Windows / Linux / macOS",
+    "method": "通用非结构网格生成"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/TetGen.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

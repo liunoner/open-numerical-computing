@@ -1,0 +1,57 @@
+{
+  "id": "project-kratos",
+  "slug": "kratos",
+  "name": "Kratos",
+  "aliases": [],
+  "sourceUrl": "https://github.com/KratosMultiphysics/Kratos",
+  "taxonomyIds": [
+    "topic-02-08",
+    "topic-05-07",
+    "topic-05-11",
+    "topic-07-06",
+    "topic-07-07"
+  ],
+  "card": {
+    "summary": "以插件式应用组织 C++ 多物理仿真能力，提供丰富 Python 接口并支持 OpenMP、MPI 并行，适合构建可扩展的流体、结构和耦合求解器。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "动网格与网格变形"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Kratos.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

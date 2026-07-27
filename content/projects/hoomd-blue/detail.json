@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-hoomd-blue",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/HOOMD-blue.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "HOOMD-blue（https://hoomd-blue.readthedocs.io/en/stable/）文档站为主要官方入口。",
+      "documentation": "HOOMD-blue Documentation（https://hoomd-blue.readthedocs.io/en/stable/）。",
+      "releases": "GitHub Releases（https://github.com/glotzerlab/hoomd-blue/releases）与官方文档的二进制安装说明。",
+      "license": "BSD-3-Clause；以LICENSE（https://github.com/glotzerlab/hoomd-blue/blob/trunk/LICENSE）为准。",
+      "installation": "安装指南（https://hoomd-blue.readthedocs.io/en/stable/installation.html）提供 pip/conda 二进制和源码构建路径；CPU/GPU 依赖按构建配置变化。",
+      "community": "GitHub Issues（https://github.com/glotzerlab/hoomd-blue/issues）、Discussions（https://github.com/glotzerlab/hoomd-blue/discussions）与文档链接的用户讨论板。",
+      "ecosystem": "Python API、GSD 数据格式、HPMC、MD、MPCD 和自定义 Python actions；官方文档提供扩展与基准脚本入口。",
+      "maintenance": "成熟、活跃维护。官方文档持续更新且仓库设有 Issues/Discussions；判断依据为官方文档与仓库。",
+      "links": [
+        {
+          "label": "glotzerlab/hoomd-blue",
+          "url": "https://github.com/glotzerlab/hoomd-blue"
+        },
+        {
+          "label": "HOOMD-blue",
+          "url": "https://hoomd-blue.readthedocs.io/en/stable/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/glotzerlab/hoomd-blue/releases"
+        },
+        {
+          "label": "LICENSE",
+          "url": "https://github.com/glotzerlab/hoomd-blue/blob/trunk/LICENSE"
+        },
+        {
+          "label": "安装指南",
+          "url": "https://hoomd-blue.readthedocs.io/en/stable/installation.html"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/glotzerlab/hoomd-blue/issues"
+        },
+        {
+          "label": "Discussions",
+          "url": "https://github.com/glotzerlab/hoomd-blue/discussions"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "project-rbf-fd-python",
+  "slug": "rbf-fd-python",
+  "name": "RBF-FD-Python",
+  "aliases": [],
+  "sourceUrl": "https://github.com/IgorTo/rbf-fd",
+  "taxonomyIds": [
+    "topic-04-02"
+  ],
+  "card": {
+    "summary": "用 Python 实现基于径向基函数的有限差分离散，直接在散乱点云上逼近 PDE，便于研究无网格方法、复杂边界与局部 stencil 的构造。",
+    "language": "MATLAB",
+    "platform": "Windows",
+    "method": "径向基函数方法（RBF）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/RBF-FD-Python.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-cantera",
+  "updatedAt": "2026-07-25",
+  "details": {
+    "identity": { "status": "pending" },
+    "overview": { "status": "pending" },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "Cantera 的官方仓库、文档、安装、社区、接口生态与维护资料已建立来源记录。",
+      "website": "https://cantera.org/",
+      "documentation": "https://www.cantera.org/stable/",
+      "releases": "https://github.com/Cantera/cantera/releases",
+      "license": "BSD 许可证；具体 SPDX 表述以官方 License.txt 为准。",
+      "installation": "Python 接口可经 Conda 或 pip 安装；C++/Fortran 与开发版支持源码构建。",
+      "community": "GitHub Issues、Discussions 与 Cantera Users' Group 是已记录的协作入口。",
+      "ecosystem": "官方提供 Python、C++、C、Fortran、Matlab 等接口及示例。",
+      "maintenance": "综合判断：活跃维护；官方持续发布稳定版和开发版，并维护文档与用户组。",
+      "links": [
+        { "label": "官方仓库", "url": "https://github.com/Cantera/cantera" },
+        { "label": "官网", "url": "https://cantera.org/" },
+        { "label": "官方文档", "url": "https://www.cantera.org/stable/" },
+        { "label": "发行页", "url": "https://github.com/Cantera/cantera/releases" },
+        { "label": "用户组", "url": "https://groups.google.com/g/cantera-users" }
+      ]
+    },
+    "scope": { "status": "pending" },
+    "theory": { "status": "pending" },
+    "extensions": { "status": "pending" },
+    "references": { "status": "pending" },
+    "media": { "status": "pending" }
+  }
+}

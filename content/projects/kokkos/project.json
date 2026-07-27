@@ -1,0 +1,57 @@
+{
+  "id": "project-kokkos",
+  "slug": "kokkos",
+  "name": "Kokkos",
+  "aliases": [],
+  "sourceUrl": "https://github.com/kokkos/kokkos",
+  "taxonomyIds": [
+    "topic-08-11",
+    "topic-08-14"
+  ],
+  "card": {
+    "summary": "用 C++ 统一抽象并行执行空间与内存空间，使同一套内核可映射到 CPU、GPU 等 HPC 架构，面向异构应用的性能可移植开发。",
+    "language": "C++ / Fortran",
+    "platform": "Linux",
+    "method": "GPU 与异构加速"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Kokkos ＋ RAJA.md"
+  ],
+  "mapping": {
+    "files": [
+      "Kokkos ＋ RAJA.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料合并记录 Kokkos 与 RAJA。"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "project-nekrs",
+  "slug": "nekrs",
+  "name": "NekRS",
+  "aliases": [],
+  "sourceUrl": "https://github.com/Nek5000/nekRS",
+  "taxonomyIds": [
+    "topic-03-08",
+    "topic-08-11",
+    "topic-08-12"
+  ],
+  "card": {
+    "summary": "面向现代 GPU 与多核架构重构的谱元 CFD 求解器，延续 Nek5000 算法体系并强化可扩展性，适合高雷诺数流动与超大规模并行计算。",
+    "language": "C++ / C",
+    "platform": "Windows / Linux / macOS",
+    "method": "谱方法与谱元法"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Nek5000 ＋ NekRS.md"
+  ],
+  "mapping": {
+    "files": [
+      "Nek5000 ＋ NekRS.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料合并记录 Nek5000 与 NekRS。"
+  }
+}

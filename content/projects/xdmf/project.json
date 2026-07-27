@@ -1,0 +1,53 @@
+{
+  "id": "project-xdmf",
+  "slug": "xdmf",
+  "name": "XDMF",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.kitware.com/xdmf/xdmf",
+  "taxonomyIds": [
+    "topic-09-09"
+  ],
+  "card": {
+    "summary": "面向 HPC 数据交换的可扩展数据模型与格式，以 XML 描述网格与元数据、HDF5 存储大规模数值数据，便于 ParaView 等工具读取和耦合计算。",
+    "language": "C++",
+    "platform": "Windows",
+    "method": "科学数据格式读写与转换"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/XDMF.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

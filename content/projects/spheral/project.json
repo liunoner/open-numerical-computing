@@ -1,0 +1,53 @@
+{
+  "id": "project-spheral",
+  "slug": "spheral",
+  "name": "Spheral",
+  "aliases": [],
+  "sourceUrl": "https://github.com/llnl/spheral",
+  "taxonomyIds": [
+    "topic-04-03"
+  ],
+  "card": {
+    "summary": "基于 SPH 与 N-Body 方法的并行粒子模拟环境，可耦合流体、引力、固体材料及损伤断裂模型，服务天体物理与极端载荷问题研究。",
+    "language": "Python",
+    "platform": "Windows",
+    "method": "光滑粒子流体动力学（SPH）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Spheral.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

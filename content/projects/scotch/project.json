@@ -1,0 +1,53 @@
+{
+  "id": "project-scotch",
+  "slug": "scotch",
+  "name": "SCOTCH",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.inria.fr/scotch/scotch",
+  "taxonomyIds": [
+    "topic-02-09"
+  ],
+  "card": {
+    "summary": "面向图、网格和稀疏矩阵的划分与重排序工具，利用顺序或并行算法平衡子域负载、降低通信量和矩阵分解中的 fill-in。",
+    "language": "C",
+    "platform": "Windows",
+    "method": "网格分区与负载划分"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SCOTCH.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

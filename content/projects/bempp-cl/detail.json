@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-bempp-cl",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Bempp-cl.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Bempp 官方主页（https://bempp.com/）",
+      "documentation": "Bempp 官方文档（https://bempp.com/） 与 安装文档（https://bempp.com/installation.html）",
+      "releases": "GitHub Releases（https://github.com/bempp/bempp-cl/releases）",
+      "license": "MIT；见 官方 LICENSE（https://github.com/bempp/bempp-cl/blob/main/LICENSE）",
+      "installation": "支持 pip、Conda、Docker 与源码安装；Python 3.7+，基础依赖 NumPy、SciPy、Numba、meshio，OpenCL/pyopencl/Gmsh 等按功能启用，见 官方安装文档（https://bempp.com/installation.html）",
+      "community": "GitHub Issues（https://github.com/bempp/bempp-cl/issues）、Pull Requests；官方主页提供开发团队与文档入口。",
+      "ecosystem": "支持 PyOpenCL JIT、Docker、Gmsh/VTK 格式、FEniCS FEM/BEM 耦合及 Python 科学计算生态。",
+      "maintenance": "综合判断：持续可用。官方主页给出 Bempp-cl 当前版本、安装说明和开发团队；具体最新仓库活动按发行页复核。",
+      "links": [
+        {
+          "label": "Bempp-cl 官方 GitHub 仓库",
+          "url": "https://github.com/bempp/bempp-cl"
+        },
+        {
+          "label": "Bempp 官方主页",
+          "url": "https://bempp.com/"
+        },
+        {
+          "label": "安装文档",
+          "url": "https://bempp.com/installation.html"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/bempp/bempp-cl/releases"
+        },
+        {
+          "label": "官方 LICENSE",
+          "url": "https://github.com/bempp/bempp-cl/blob/main/LICENSE"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/bempp/bempp-cl/issues"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

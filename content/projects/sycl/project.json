@@ -1,0 +1,56 @@
+{
+  "id": "project-sycl",
+  "slug": "sycl",
+  "name": "SYCL",
+  "aliases": [],
+  "sourceUrl": "https://github.com/KhronosGroup/SYCL-Docs",
+  "taxonomyIds": [
+    "topic-08-14"
+  ],
+  "card": {
+    "summary": "开放的单源 C++ 异构并行编程标准，用统一 API 管理 CPU、GPU 与 FPGA 等设备上的数据和 kernel，便于开发跨厂商的加速计算程序。",
+    "language": "C++",
+    "platform": "Windows / Linux / macOS",
+    "method": "性能可移植与硬件抽象"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/SYCL-Docs.md"
+  ],
+  "mapping": {
+    "files": [
+      "SYCL-Docs.md"
+    ],
+    "status": "candidate",
+    "note": "现有资料为 SYCL 文档线索，需确认对应项目实体。"
+  }
+}

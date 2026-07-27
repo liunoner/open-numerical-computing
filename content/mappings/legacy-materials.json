@@ -1,0 +1,2090 @@
+{
+  "schemaVersion": 1,
+  "mappings": [
+    {
+      "id": "project-adios2",
+      "name": "ADIOS2",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ADIOS2.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-akantu",
+      "name": "Akantu",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Akantu.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-amgcl",
+      "name": "AMGCL",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/AMGCL.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-amrex",
+      "name": "AMReX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/AMReX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-approxfun-jl",
+      "name": "ApproxFun.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ApproxFun.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-arpack",
+      "name": "ARPACK",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ARPACK.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-basilisk",
+      "name": "Basilisk",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Basilisk.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-bem",
+      "name": "BEM++",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/BEM++.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-bempp-cl",
+      "name": "Bempp-cl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Bempp-cl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-brl-cad",
+      "name": "BRL-CAD",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/BRL-CAD.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-cadquery",
+      "name": "CadQuery",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CadQuery.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-calculix",
+      "name": "CalculiX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CalculiX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-calculix-graphix",
+      "name": "CalculiX GraphiX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CalculiX.md"
+      ],
+      "mapping": {
+        "files": [
+          "CalculiX.md"
+        ],
+        "status": "candidate",
+        "note": "名称包含图形前后处理组件，需人工确认资料是否完整覆盖。"
+      }
+    },
+    {
+      "id": "project-cantera",
+      "name": "Cantera",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Cantera.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-cb-geo-mpm",
+      "name": "CB-Geo MPM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CB-Geo MPM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-cgal",
+      "name": "CGAL",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CGAL.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-clawpack",
+      "name": "Clawpack",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Clawpack.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-code-aster",
+      "name": "Code_Aster",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Code_Aster.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-code-saturne",
+      "name": "Code_Saturne",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Code_Saturne.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-compucell3d",
+      "name": "CompuCell3D",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CompuCell3D.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-cwipi",
+      "name": "CWIPI",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/CWIPI.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-damask",
+      "name": "DAMASK",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/DAMASK.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-deal-ii",
+      "name": "deal.II",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/deal.II.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-dedalus",
+      "name": "Dedalus",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Dedalus.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-devito",
+      "name": "Devito",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Devito.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-differentialequations-jl",
+      "name": "DifferentialEquations.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/DifferentialEquations.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-dualsphysics",
+      "name": "DualSPHysics",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/DualSPHysics.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-dumux",
+      "name": "DuMuX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/DuMuX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-dune",
+      "name": "DUNE",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/DUNE.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-elmer",
+      "name": "Elmer",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Elmer.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-espresso",
+      "name": "ESPResSo",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ESPResSo.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-f3d",
+      "name": "F3D",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/F3D.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-fbpic",
+      "name": "FBPIC",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FBPIC.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-fdesolver-jl",
+      "name": "FdeSolver.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FdeSolver.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-feascript",
+      "name": "FEAScript",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FEAScript.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-feat3",
+      "name": "FEAT3",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FEAT3.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-febio",
+      "name": "FEBio",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FEBio.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-feel",
+      "name": "Feel++",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Feel++.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-femaster",
+      "name": "FEMaster",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FEMaster.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-fenicsx",
+      "name": "FEniCSx",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FEniCSx.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-fipy",
+      "name": "FiPy",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FiPy.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-firedrake",
+      "name": "Firedrake",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Firedrake.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-flexi",
+      "name": "FLEXI",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FLEXI.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-fractionaldiffeq-jl",
+      "name": "FractionalDiffEq.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FractionalDiffEq.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-freecad",
+      "name": "FreeCAD",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FreeCAD.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-freecad-fem",
+      "name": "FreeCAD FEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FreeCAD.md"
+      ],
+      "mapping": {
+        "files": [
+          "FreeCAD.md"
+        ],
+        "status": "candidate",
+        "note": "FreeCAD 的 FEM 工作台条目，使用主项目资料作为迁移起点。"
+      }
+    },
+    {
+      "id": "project-freefem",
+      "name": "FreeFEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/FreeFEM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-g-smo",
+      "name": "G+Smo",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/G+Smo.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-geopdes",
+      "name": "GeoPDEs",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/GeoPDEs.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-gerris",
+      "name": "Gerris",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Gerris.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-getfem",
+      "name": "GetFEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/GetFEM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-ginkgo",
+      "name": "Ginkgo",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Ginkgo.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-gmsh",
+      "name": "Gmsh",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Gmsh.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-gmsh-onelab",
+      "name": "Gmsh/ONELAB",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Gmsh.md"
+      ],
+      "mapping": {
+        "files": [
+          "Gmsh.md"
+        ],
+        "status": "candidate",
+        "note": "ONELAB 与 Gmsh 关系需要后续补充独立资料。"
+      }
+    },
+    {
+      "id": "project-goma",
+      "name": "Goma",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Goma.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-gpusph",
+      "name": "GPUSPH",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/GPUSPH.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-gridap",
+      "name": "Gridap",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Gridap ＋ GridapEmbedded.md"
+      ],
+      "mapping": {
+        "files": [
+          "Gridap ＋ GridapEmbedded.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Gridap 与 GridapEmbedded。"
+      }
+    },
+    {
+      "id": "project-gridapembedded",
+      "name": "GridapEmbedded",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Gridap ＋ GridapEmbedded.md"
+      ],
+      "mapping": {
+        "files": [
+          "Gridap ＋ GridapEmbedded.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Gridap 与 GridapEmbedded。"
+      }
+    },
+    {
+      "id": "project-gromacs",
+      "name": "GROMACS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/GROMACS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-h5py",
+      "name": "h5py",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/h5py.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hdf5",
+      "name": "HDF5",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/HDF5.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hemelb",
+      "name": "HemeLB",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/HemeLB.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hermes",
+      "name": "Hermes",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Hermes.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hoomd-blue",
+      "name": "HOOMD-blue",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/HOOMD-blue.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hpddm",
+      "name": "HPDDM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/HPDDM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-hypre",
+      "name": "hypre",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/hypre.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-igatools",
+      "name": "igatools",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/igatools.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-kinsol",
+      "name": "KINSOL",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SUNDIALS.md"
+      ],
+      "mapping": {
+        "files": [
+          "SUNDIALS.md"
+        ],
+        "status": "candidate",
+        "note": "KINSOL 属于 SUNDIALS 套件，需补充组件级资料。"
+      }
+    },
+    {
+      "id": "project-kokkos",
+      "name": "Kokkos",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Kokkos ＋ RAJA.md"
+      ],
+      "mapping": {
+        "files": [
+          "Kokkos ＋ RAJA.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Kokkos 与 RAJA。"
+      }
+    },
+    {
+      "id": "project-kratos",
+      "name": "Kratos",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Kratos.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-lammps",
+      "name": "LAMMPS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/LAMMPS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-libceed",
+      "name": "libCEED",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/libCEED.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-libigl",
+      "name": "libigl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/libigl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-liggghts",
+      "name": "LIGGGHTS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/LIGGGHTS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-matplotlib",
+      "name": "Matplotlib",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Matplotlib.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mayavi",
+      "name": "Mayavi",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Mayavi.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-medusa",
+      "name": "Medusa",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Medusa.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-meep",
+      "name": "Meep",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Meep.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mercurydpm",
+      "name": "MercuryDPM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MercuryDPM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-meshfix",
+      "name": "MeshFix",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MeshFix.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-meshio",
+      "name": "meshio",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/meshio.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-meshlab",
+      "name": "MeshLab",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MeshLab.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-metis",
+      "name": "METIS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/METIS ＋ ParMETIS.md"
+      ],
+      "mapping": {
+        "files": [
+          "METIS ＋ ParMETIS.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 METIS 与 ParMETIS。"
+      }
+    },
+    {
+      "id": "project-mfem",
+      "name": "MFEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MFEM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mmg",
+      "name": "MMG",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MMG.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mofem",
+      "name": "MoFEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MoFEM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-moose",
+      "name": "MOOSE",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MOOSE.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-morpheus",
+      "name": "Morpheus",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Morpheus.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mpich",
+      "name": "MPICH",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MPICH.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mui",
+      "name": "MUI",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MUI.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mumps",
+      "name": "MUMPS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MUMPS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-mupif",
+      "name": "MuPIF",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/MuPIF.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-nek5000",
+      "name": "Nek5000",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Nek5000 ＋ NekRS.md"
+      ],
+      "mapping": {
+        "files": [
+          "Nek5000 ＋ NekRS.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Nek5000 与 NekRS。"
+      }
+    },
+    {
+      "id": "project-nekrs",
+      "name": "NekRS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Nek5000 ＋ NekRS.md"
+      ],
+      "mapping": {
+        "files": [
+          "Nek5000 ＋ NekRS.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Nek5000 与 NekRS。"
+      }
+    },
+    {
+      "id": "project-nektar",
+      "name": "Nektar++",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Nektar++.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-neml",
+      "name": "NEML",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/NEML.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-netgen",
+      "name": "Netgen",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Netgen.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-ngsolve",
+      "name": "NGSolve",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/NGSolve.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-nlmech",
+      "name": "NLMech",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/NLMech.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-obmeshfree",
+      "name": "OBMeshfree",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OBMeshfree.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-occa",
+      "name": "OCCA",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OCCA.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-oofem",
+      "name": "OOFEM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OOFEM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-open-cascade-technology",
+      "name": "Open CASCADE Technology",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OCCT.md"
+      ],
+      "mapping": {
+        "files": [
+          "OCCT.md"
+        ],
+        "aliases": [
+          "OCCT"
+        ],
+        "status": "verified_alias",
+        "note": "OCCT 是 Open CASCADE Technology 的常用缩写。"
+      }
+    },
+    {
+      "id": "project-opencfs",
+      "name": "openCFS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/openCFS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openems",
+      "name": "openEMS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/openEMS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openfast",
+      "name": "OpenFAST",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenFAST.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openfoam",
+      "name": "OpenFOAM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenFOAM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openfpm",
+      "name": "OpenFPM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenFPM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-opengeosys",
+      "name": "OpenGeoSys",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenGeoSys.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openkim",
+      "name": "OpenKIM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenKIM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openlb",
+      "name": "OpenLB",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenLB.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openmm",
+      "name": "OpenMM",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenMM.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openmodelica",
+      "name": "OpenModelica",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenModelica.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openmpi",
+      "name": "OpenMPI",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenMPI.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openphase",
+      "name": "OpenPhase",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenPhase.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-openscad",
+      "name": "OpenSCAD",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenSCAD.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-opensees",
+      "name": "OpenSees",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OpenSees.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-ovito",
+      "name": "OVITO",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/OVITO.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-p4est",
+      "name": "p4est",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/p4est.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-palabos",
+      "name": "Palabos",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Palabos.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-palace",
+      "name": "Palace",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Palace.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pandas",
+      "name": "pandas",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/pandas.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-paraview",
+      "name": "ParaView",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ParaView.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-paraview-glance",
+      "name": "ParaView Glance",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ParaView Glance.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-parmetis",
+      "name": "ParMETIS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/METIS ＋ ParMETIS.md"
+      ],
+      "mapping": {
+        "files": [
+          "METIS ＋ ParMETIS.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 METIS 与 ParMETIS。"
+      }
+    },
+    {
+      "id": "project-parmmg",
+      "name": "ParMmg",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/ParMmg.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pastix",
+      "name": "PaStiX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PaStiX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-peridigm",
+      "name": "Peridigm",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Peridigm.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-perihpx",
+      "name": "PeriHPX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PeriHPX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-perilab-jl",
+      "name": "PeriLab.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PeriLab.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-peripy",
+      "name": "PeriPy",
+      "legacyMaterials": [],
+      "mapping": {
+        "files": [],
+        "status": "missing",
+        "note": "尚未找到对应的单项目资料。"
+      }
+    },
+    {
+      "id": "project-petiga",
+      "name": "PetIGA",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PetIGA.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-petsc",
+      "name": "PETSc",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PETSc.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pflotran",
+      "name": "PFLOTRAN",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PFLOTRAN.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-picongpu",
+      "name": "PIConGPU",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PIConGPU.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-porepy",
+      "name": "PorePy",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PorePy.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-precice",
+      "name": "preCICE",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/preCICE.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-prepomax",
+      "name": "PrePoMax",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PrePoMax.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-prisms-pf",
+      "name": "PRISMS-PF",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PRISMS-PF.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-project-chrono",
+      "name": "Project Chrono",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Project Chrono.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pyfr",
+      "name": "PyFR",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PyFR.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pynastran",
+      "name": "pyNastran",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/pyNastran.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pysph",
+      "name": "PySPH",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PySPH.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-pyvista",
+      "name": "PyVista",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/PyVista.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-raja",
+      "name": "RAJA",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Kokkos ＋ RAJA.md"
+      ],
+      "mapping": {
+        "files": [
+          "Kokkos ＋ RAJA.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 Kokkos 与 RAJA。"
+      }
+    },
+    {
+      "id": "project-rbf-fd-python",
+      "name": "RBF-FD-Python",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/RBF-FD-Python.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-reef3d",
+      "name": "REEF3D",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/REEF3D.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-salome",
+      "name": "SALOME",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SALOME.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-scidavis",
+      "name": "SciDAVis",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SciDAVis.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-scotch",
+      "name": "SCOTCH",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SCOTCH.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sfepy",
+      "name": "SfePy",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SfePy.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-simvascular",
+      "name": "SimVascular",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SimVascular.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-slepc",
+      "name": "SLEPc",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SLEPc.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-smilei",
+      "name": "Smilei",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Smilei.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sofa",
+      "name": "SOFA",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SOFA.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-solvespace",
+      "name": "SolveSpace",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SolveSpace.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sparselizard",
+      "name": "Sparselizard",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Sparselizard.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-spheral",
+      "name": "Spheral",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Spheral.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sphinxsys",
+      "name": "SPHinXsys",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SPHinXsys.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-su2",
+      "name": "SU2",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SU2.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-suitesparse",
+      "name": "SuiteSparse",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SuiteSparse.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sundials",
+      "name": "SUNDIALS",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SUNDIALS.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-superlu",
+      "name": "SuperLU",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SuperLU.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-svmultiphysics",
+      "name": "svMultiPhysics",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/svMultiPhysics.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-sycl",
+      "name": "SYCL",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/SYCL-Docs.md"
+      ],
+      "mapping": {
+        "files": [
+          "SYCL-Docs.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料为 SYCL 文档线索，需确认对应项目实体。"
+      }
+    },
+    {
+      "id": "project-taichi",
+      "name": "Taichi",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Taichi.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-tetgen",
+      "name": "TetGen",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/TetGen.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-tfel-mfront",
+      "name": "TFEL/MFront",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/TFEL＋MFront.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-trame",
+      "name": "trame",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/vtk.js ＋ trame.md"
+      ],
+      "mapping": {
+        "files": [
+          "vtk.js ＋ trame.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 vtk.js 与 trame。"
+      }
+    },
+    {
+      "id": "project-trilinos",
+      "name": "Trilinos",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Trilinos.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-trixi-jl",
+      "name": "Trixi.jl",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Trixi.jl.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-uintah",
+      "name": "Uintah",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Uintah.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-vedo",
+      "name": "vedo",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/vedo.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-veusz",
+      "name": "Veusz",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Veusz.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-visit",
+      "name": "VisIt",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/VisIt.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-vmd",
+      "name": "VMD",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/VMD.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-vtk",
+      "name": "VTK",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/VTK.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-vtk-js",
+      "name": "vtk.js",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/vtk.js ＋ trame.md"
+      ],
+      "mapping": {
+        "files": [
+          "vtk.js ＋ trame.md"
+        ],
+        "status": "candidate",
+        "note": "现有资料合并记录 vtk.js 与 trame。"
+      }
+    },
+    {
+      "id": "project-walberla",
+      "name": "waLBerla",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/waLBerla.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-warpx",
+      "name": "WarpX",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/WarpX.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-xarray",
+      "name": "xarray",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/xarray.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-xdmf",
+      "name": "XDMF",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/XDMF.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-yade",
+      "name": "YADE",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/YADE.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-yt",
+      "name": "yt",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/yt.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    },
+    {
+      "id": "project-zoltan",
+      "name": "Zoltan",
+      "legacyMaterials": [
+        "开源项目资料/所有项目资料/Zoltan.md"
+      ],
+      "mapping": {
+        "status": "direct",
+        "note": "项目名与资料标题直接匹配。"
+      }
+    }
+  ]
+}

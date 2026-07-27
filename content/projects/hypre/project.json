@@ -1,0 +1,54 @@
+{
+  "id": "project-hypre",
+  "slug": "hypre",
+  "name": "hypre",
+  "aliases": [],
+  "sourceUrl": "https://github.com/hypre-space/hypre",
+  "taxonomyIds": [
+    "topic-08-06",
+    "topic-08-07"
+  ],
+  "card": {
+    "summary": "提供面向结构与非结构网格的大规模并行多重网格预条件器和求解器，重点服务稀疏线性系统的可扩展计算，常作为其他仿真软件的底层组件。",
+    "language": "Python / Julia",
+    "platform": "Windows",
+    "method": "预条件技术"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/hypre.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

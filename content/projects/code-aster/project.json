@@ -1,0 +1,55 @@
+{
+  "id": "project-code-aster",
+  "slug": "code-aster",
+  "name": "Code_Aster",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.com/codeaster/src",
+  "taxonomyIds": [
+    "topic-05-07",
+    "topic-05-08",
+    "topic-07-07"
+  ],
+  "card": {
+    "summary": "面向结构与热力学分析提供成熟的有限元能力，覆盖线性和非线性力学、动力响应、接触与材料损伤，适合工程结构仿真与验证。",
+    "language": "Fortran / Python",
+    "platform": "Windows",
+    "method": "连续损伤力学"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/Code_Aster.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

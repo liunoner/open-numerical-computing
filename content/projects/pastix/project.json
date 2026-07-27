@@ -1,0 +1,53 @@
+{
+  "id": "project-pastix",
+  "slug": "pastix",
+  "name": "PaStiX",
+  "aliases": [],
+  "sourceUrl": "https://gitlab.inria.fr/solverstack/pastix",
+  "taxonomyIds": [
+    "topic-08-01"
+  ],
+  "card": {
+    "summary": "高性能并行稀疏直接求解器，支持 LLᵀ、LDLᵀ、LU 分解和低秩压缩，可借助多核、GPU 与运行时系统处理超大规模线性系统。",
+    "language": "C / Fortran",
+    "platform": "Windows",
+    "method": "稀疏直接求解器"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PaStiX.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

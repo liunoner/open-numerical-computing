@@ -1,0 +1,53 @@
+{
+  "id": "project-cadquery",
+  "slug": "cadquery",
+  "name": "CadQuery",
+  "aliases": [],
+  "sourceUrl": "https://github.com/CadQuery/cadquery",
+  "taxonomyIds": [
+    "topic-01-02"
+  ],
+  "card": {
+    "summary": "基于 OCCT 的 Python 参数化 CAD 框架，可用脚本生成可复用、可版本管理的三维模型，尤其适合自动化设计、批量变型与制造准备。",
+    "language": "Python / C",
+    "platform": "Windows / Linux / macOS / Web",
+    "method": "参数化与脚本化几何建模"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/CadQuery.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

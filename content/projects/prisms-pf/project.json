@@ -1,0 +1,55 @@
+{
+  "id": "project-prisms-pf",
+  "slug": "prisms-pf",
+  "name": "PRISMS-PF",
+  "aliases": [],
+  "sourceUrl": "https://github.com/prisms-center/phaseField",
+  "taxonomyIds": [
+    "topic-05-01",
+    "topic-05-02",
+    "topic-07-04"
+  ],
+  "card": {
+    "summary": "高性能相场建模框架，面向材料微结构演化、相变和断裂问题提供可扩展有限元实现，适合将材料热力学与力学过程进行多尺度耦合。",
+    "language": "C++",
+    "platform": "Linux",
+    "method": "相场断裂"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/PRISMS-PF.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-mumps",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/MUMPS.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "mumps-solver.org（https://mumps-solver.org/）。",
+      "documentation": "用户指南（https://mumps-solver.org/doc/userguide_5.8.1.pdf）及源包 README/FAQ。",
+      "releases": "Download（https://mumps-solver.org/index.php?page=dwnld），当前可确认 5.9.1（2026-07）。",
+      "license": "CeCILL-C；AMD、RRQR 与 PORD 等部分有例外/单独许可，以下载页和源包许可文件为准。",
+      "installation": "源包 Makefile.inc/FAQ；并行版需要 MPI，且可选 METIS/SCOTCH、BLAS/LAPACK、排序库。",
+      "community": "MUMPS Users' mailing list 与 README 邮箱。",
+      "ecosystem": "Fortran/C 接口、Scilab/Matlab 接口，以及 PETSc、Trilinos、MOOSE 等求解器生态。",
+      "maintenance": "基础设施级、活跃维护；2026-07 有 5.9.1 正式发布和邮件列表支持。",
+      "links": [
+        {
+          "label": "MUMPS 下载页",
+          "url": "https://mumps-solver.org/index.php?page=dwnld"
+        },
+        {
+          "label": "mumps-solver.org",
+          "url": "https://mumps-solver.org/"
+        },
+        {
+          "label": "用户指南",
+          "url": "https://mumps-solver.org/doc/userguide_5.8.1.pdf"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

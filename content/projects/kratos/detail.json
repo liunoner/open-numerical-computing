@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "projectId": "project-kratos",
+  "updatedAt": "2026-07-25",
+  "migration": {
+    "source": "开源项目资料/所有项目资料/Kratos.md",
+    "method": "automated_source_ecology_extract",
+    "reviewStatus": "needs_editor_review"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "verified",
+      "summary": "已从现有资料中的官方来源记录迁入源码、文档、发行、许可证、安装、社区与生态入口；编辑复核后可继续补充项目概览和理论资料。",
+      "website": "Kratos Multiphysics（https://www.cimne.com/kratos/）；项目主要资料亦由 GitHub/Read the Docs 发布。",
+      "documentation": "Kratos Documentation（https://kratosmultiphysics.github.io/Kratos/）。",
+      "releases": "GitHub Releases（https://github.com/KratosMultiphysics/Kratos/releases）与安装页（https://github.com/KratosMultiphysics/Kratos/blob/master/INSTALL.md）。",
+      "license": "BSD-4-Clause；以license.txt（https://github.com/KratosMultiphysics/Kratos/blob/master/license.txt）和仓库 README 为准。",
+      "installation": "官方 INSTALL.md 覆盖源码编译；C++/Python、CMake、Python 包与可选并行/数学库按 Applications 配置选择。",
+      "community": "GitHub Issues（https://github.com/KratosMultiphysics/Kratos/issues）、Discussions（https://github.com/KratosMultiphysics/Kratos/discussions）和 Pull Requests。",
+      "ecosystem": "核心+Applications 模块结构，提供 Python 接口和结构、流体、DEM、接触、热、FSI 等应用；扩展以官方 Applications 目录为准。",
+      "maintenance": "大型、成熟且活跃维护的多物理场框架；依据为近期仓库活动、完整文档与开放协作入口。",
+      "links": [
+        {
+          "label": "KratosMultiphysics/Kratos",
+          "url": "https://github.com/KratosMultiphysics/Kratos"
+        },
+        {
+          "label": "Kratos Multiphysics",
+          "url": "https://www.cimne.com/kratos/"
+        },
+        {
+          "label": "Kratos Documentation",
+          "url": "https://kratosmultiphysics.github.io/Kratos/"
+        },
+        {
+          "label": "GitHub Releases",
+          "url": "https://github.com/KratosMultiphysics/Kratos/releases"
+        },
+        {
+          "label": "安装页",
+          "url": "https://github.com/KratosMultiphysics/Kratos/blob/master/INSTALL.md"
+        },
+        {
+          "label": "license.txt",
+          "url": "https://github.com/KratosMultiphysics/Kratos/blob/master/license.txt"
+        },
+        {
+          "label": "GitHub Issues",
+          "url": "https://github.com/KratosMultiphysics/Kratos/issues"
+        },
+        {
+          "label": "Discussions",
+          "url": "https://github.com/KratosMultiphysics/Kratos/discussions"
+        }
+      ]
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  }
+}

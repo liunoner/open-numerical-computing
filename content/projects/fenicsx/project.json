@@ -1,0 +1,57 @@
+{
+  "id": "project-fenicsx",
+  "slug": "fenicsx",
+  "name": "FEniCSx",
+  "aliases": [],
+  "sourceUrl": "https://github.com/FEniCS/dolfinx",
+  "taxonomyIds": [
+    "topic-03-01",
+    "topic-03-02",
+    "topic-05-01",
+    "topic-07-01",
+    "topic-07-09"
+  ],
+  "card": {
+    "summary": "以 UFL 变分形式驱动自动组装，并通过 DOLFINx 提供 C++ 与 Python 并行计算环境，适合快速开发可扩展的有限元 PDE 与多物理模型。",
+    "language": "C++ / Python",
+    "platform": "Windows / Linux / macOS",
+    "method": "连续 Galerkin 有限元法（FEM）"
+  },
+  "lifecycle": {
+    "status": "legacy_material_mapped",
+    "detailStatus": "pending"
+  },
+  "details": {
+    "identity": {
+      "status": "pending"
+    },
+    "overview": {
+      "status": "pending"
+    },
+    "sourceEcology": {
+      "status": "pending"
+    },
+    "scope": {
+      "status": "pending"
+    },
+    "theory": {
+      "status": "pending"
+    },
+    "extensions": {
+      "status": "pending"
+    },
+    "references": {
+      "status": "pending"
+    },
+    "media": {
+      "status": "pending"
+    }
+  },
+  "legacyMaterials": [
+    "开源项目资料/所有项目资料/FEniCSx.md"
+  ],
+  "mapping": {
+    "status": "direct",
+    "note": "项目名与资料标题直接匹配。"
+  }
+}
