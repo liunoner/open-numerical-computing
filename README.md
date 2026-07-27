@@ -1,1 +1,0 @@
-# open-numerical-computing
