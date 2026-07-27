@@ -3,12 +3,21 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="按数值方法、建模环节与工程工作流检索开源数值仿真项目，并直达其官方源码入口。">
+<meta name="description" content="收录大型开源数值仿真项目与数值计算领域论文配套开源代码，并直达其官方源码入口。">
 <meta name="theme-color" content="#2864dd">
 <title>开源数值仿真导航平台</title>
 <link rel="stylesheet" href="./assets/css/site.css">
 </head>
 <body>
+<header class="site-header">
+  <a class="site-brand" href="#home" aria-label="返回首页">
+    <span class="site-brand-mark" aria-hidden="true">∑</span>
+    <span><strong>开源数值仿真导航平台</strong><small>OPEN NUMERICAL SIMULATION</small></span>
+  </a>
+  <nav class="site-nav" id="site-nav" aria-label="网站主导航"></nav>
+</header>
+<section class="site-page" id="site-page" aria-live="polite"></section>
+<section class="programs-page" id="programs-page" aria-label="大型开源程序" hidden>
 <div class="app">
   <aside>
     <div class="sidebar-title"><strong>请先选择项目分类</strong><span class="sidebar-total" id="sidebar-category-count"></span></div>
@@ -37,6 +46,7 @@
   <main id="main"></main>
   <aside class="project-index" id="project-index" aria-label="全部开源项目索引"></aside>
 </div>
+</section>
 <script src="./data/taxonomy.js"></script>
 <script src="./data/card-descriptions.js"></script>
 <script src="./data/project-profiles.js"></script>

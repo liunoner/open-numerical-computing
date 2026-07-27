@@ -33,6 +33,13 @@ const detailContent={
 function profileFor(project,item){const known=projectProfiles[project.name];if(known)return {...known,verified:true};return {summary:'面向“'+item.title+'”场景的开源数值仿真与科学计算项目。',language:'多语言',platform:'跨平台',method:item.title,verified:false}}
 function cardSummary(project,profile,item){const capability=profile.method||item.title;return cardDescriptions[project.name]||profile.summary||project.name+' 是面向'+capability+'的开源项目，可用于'+item.title+'相关的建模、数值计算与结果分析。'}
 const nav=document.querySelector('#nav'),main=document.querySelector('#main'),projectIndex=document.querySelector('#project-index');
+const siteNav=document.querySelector('#site-nav'),sitePage=document.querySelector('#site-page'),programsPage=document.querySelector('#programs-page');
+const siteSections=[
+  {id:'home',label:'首页',status:'ready'},
+  {id:'programs',label:'大型开源程序',status:'ready'},
+  {id:'papers',label:'论文配套开源代码',status:'coming',description:'本页面主要用于收录有开源代码的数值计算领域论文，方便读者直接获取和使用。当前页面还在建设，敬请期待。'},
+  {id:'about',label:'关于本站',status:'coming',description:'本站收录原则、资料核验方式与参与方式正在整理中。'}
+];
 let active=0,query="",currentItem=0,expandedIndex=null;
 let filters={language:'',platform:'',method:'',detail:'all'};
 let isDetailView=false;
@@ -141,7 +148,53 @@ function setExpanded(index){expandedIndex=index;nav.querySelectorAll('.tree-node
 function syncTree(){setExpanded(active)}
 function activateCategory(index){if(active===index&&!isDetailView){setExpanded(index);return}active=index;currentItem=0;query='';filters={language:'',platform:'',method:'',detail:'all'};expandedIndex=index;history.replaceState(null,'','#category='+active);drawNav();renderCategory()}
 function drawNav(){nav.innerHTML=sections.map((section,sectionIndex)=>'<section class="tree-node" data-section="'+sectionIndex+'"><button class="tree-primary" type="button" aria-current="'+(sectionIndex===active?'page':'false')+'"><span>'+esc(section.title)+'</span></button></section>').join('');nav.querySelectorAll('.tree-node').forEach((node,index)=>{const button=node.querySelector('.tree-primary');node.addEventListener('mouseenter',()=>{if(!isDetailView)activateCategory(index)});button.addEventListener('focus',()=>setExpanded(index));button.addEventListener('click',()=>activateCategory(index))});setExpanded(active)}
-function route(){let hash='';try{hash=decodeURIComponent(location.hash.slice(1))}catch{}if(hash.startsWith('project=')){renderDetail(hash.slice(8));return}if(hash.startsWith('category=')){const index=Number(hash.slice(9));if(Number.isInteger(index)&&sections[index]){active=index;currentItem=0}}drawNav();renderCategory()}
+function drawSiteNav(current){
+  siteNav.innerHTML=siteSections.map(section=>'<a href="#'+section.id+'" '+(section.id===current?'aria-current="page"':'')+'>'+esc(section.label)+(section.status==='coming'?'<small>建设中</small>':'')+'</a>').join('');
+  document.body.dataset.page=current;
+  document.title=(siteSections.find(section=>section.id===current)?.label||'首页')+' · 开源数值仿真导航平台';
+}
+function resetTopLevelScroll(){
+  window.scrollTo({top:0,behavior:'auto'});
+  main.querySelector('.project-scroll,.detail-scroll')?.scrollTo({top:0,behavior:'auto'});
+}
+function showPrograms(){
+  const changed=programsPage.hidden;
+  sitePage.hidden=true;
+  sitePage.innerHTML='';
+  programsPage.hidden=false;
+  drawSiteNav('programs');
+  if(changed)resetTopLevelScroll();
+}
+function verifiedDetailCount(){return allProjects.filter(project=>projectDetails[project.name]?.details?.sourceEcology?.status==='verified').length}
+function renderHome(){
+  programsPage.hidden=true;
+  sitePage.hidden=false;
+  drawSiteNav('home');
+  sitePage.innerHTML='<main class="home-page"><section class="home-hero"><p class="home-kicker">OPEN SOURCE · NUMERICAL COMPUTING</p><h1>开源数值计算与工程仿真资源导航</h1><p>按数值方法、工程场景和开发生态检索开源项目，让项目发现、资料核验与源码访问更加直接。</p><div class="home-actions"><a class="home-primary" href="#programs">浏览大型开源程序 <span>→</span></a><a class="home-secondary" href="#about">了解收录原则</a></div></section><section class="home-stats" aria-label="站点统计"><div><strong>'+sections.length+'</strong><span>一级方向</span></div><div><strong>'+allProjects.length+'</strong><span>开源项目</span></div><div><strong>'+verifiedDetailCount()+'</strong><span>已核验详情</span></div></section><section class="home-feature"><div><p class="home-section-kicker">已上线栏目</p><h2>大型开源程序</h2><p>覆盖分类树、项目筛选、字母索引、项目详情与官方源码入口，帮助你从技术路线快速定位可用的开源数值仿真工具。</p><a href="#programs">进入项目目录 →</a></div><ul><li>按 9 个一级方向浏览</li><li>在当前方向内筛选语言、平台与方法</li><li>直达项目详情和官方源代码</li></ul></section><section class="home-note"><h2>资料收录与核验</h2><p>本站整理公开的开源项目资料；项目源码和详情资料按已建立的来源记录展示，未完成核验的内容不会以推测信息替代。</p></section><footer class="site-footer">开源数值仿真导航平台 · 持续整理公开的开源数值计算资源</footer></main>';
+  resetTopLevelScroll();
+}
+function renderComingPage(section){
+  programsPage.hidden=true;
+  sitePage.hidden=false;
+  drawSiteNav(section.id);
+  sitePage.innerHTML='<main class="coming-page"><p class="coming-kicker">COMING SOON</p><h1>'+esc(section.label)+'</h1><p>'+esc(section.description)+'</p><div><a class="home-primary" href="#home">返回首页 <span>→</span></a><a class="home-secondary" href="#programs">浏览大型开源程序</a></div></main>';
+  resetTopLevelScroll();
+}
+function route(){
+  let hash='';
+  try{hash=decodeURIComponent(location.hash.slice(1))}catch{}
+  if(!hash||hash==='home'){renderHome();return}
+  if(hash==='programs'){showPrograms();drawNav();renderCategory();return}
+  const section=siteSections.find(item=>item.id===hash);
+  if(section){renderComingPage(section);return}
+  if(hash.startsWith('project=')){showPrograms();renderDetail(hash.slice(8));return}
+  if(hash.startsWith('category=')){
+    const index=Number(hash.slice(9));
+    if(Number.isInteger(index)&&sections[index]){active=index;currentItem=0}
+    showPrograms();drawNav();renderCategory();return;
+  }
+  renderHome();
+}
 /* Center panel: the project list is now the sole scrollable content.  Keep the
    selection state, but do not render a separate fixed secondary-direction panel. */
 function updateContext(){
